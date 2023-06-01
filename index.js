@@ -44,14 +44,14 @@ await client.connect();
   //   "What would be a good company name a company that makes colorful socks?"
   // );
   // console.log({ resA });
- const question =
-   "What do you know about Madhya Pradesh East Nimar Harsud 2021-22 April";
-export  const res = await chain.call({ question, chat_history: [] });
- console.log(res);
- /* Ask it a follow up question */
- const chatHistory = question + res.text;
- const followUpRes = await chain.call({
-   question: "Was that nice?",
-   chat_history: chatHistory,
- });
- console.log(followUpRes);
+//  const question =
+//    "What do you know about Madhya Pradesh East Nimar Harsud 2021-22 April";
+// export  const res = await chain.call({ question, chat_history: [] });
+//  console.log(res);
+//  /* Ask it a follow up question */
+//  const chatHistory = question + res.text;
+//  const followUpRes = await chain.call({
+//    question: "Was that nice?",
+//    chat_history: chatHistory,
+//  });
+//  console.log(followUpRes);
