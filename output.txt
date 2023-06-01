@@ -1,0 +1,1290 @@
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.1 Total number of pregnant women registered for ANC M1 [Ante Natal Care (ANC)] 216 NA 216 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.1.1 Out of the total ANC registered, number registered within 1st trimester (within 12 weeks) M1 [Ante Natal Care (ANC)] 207 NA 207 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.2.1 Number of PW given TT1/ Td1 M1 [Ante Natal Care (ANC)] 190 NA 190 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.2.2 Number of PW given TT2 / Td2 M1 [Ante Natal Care (ANC)] 173 NA 173 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.2.3 Number of PW given TT Booster/ Td Booster M1 [Ante Natal Care (ANC)] 29 NA 29 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.2.4 Number of PW provided full Course 180 Iron Folic Acid (IFA) tablets M1 [Ante Natal Care (ANC)] 219 NA 219 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.2.5 Number of PW provided full Course 360 Calcium tablets M1 [Ante Natal Care (ANC)] 219 NA 219 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.2.6 Number of PW given one Albendazole tablet after 1st trimester M1 [Ante Natal Care (ANC)] 198 NA 198 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.2.7 Number of PW received 4 or more ANC check ups M1 [Ante Natal Care (ANC)] 188 NA 188 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.2.8 Number of PW given ANC Corticosteroids in Pre Term Labour M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.3.1 New cases of PW with hypertension detected M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.3.1.a Out of the new cases of PW with hypertension detected, cases managed at institution M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.3.2 Number of Eclampsia cases managed during delivery M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.4.1 Number of PW tested for Haemoglobin (Hb ) 4 or more than 4 times for respective ANCs M1 [Ante Natal Care (ANC)] 188 NA 188 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.4.2 Number of PW having Hb level<11 (out of total tested cases)(7.1 to 10.9) M1 [Ante Natal Care (ANC)] 131 NA 131 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.4.3 Number of PW having Hb level<7 (out of total tested cases) M1 [Ante Natal Care (ANC)] 5 NA 5 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.4.4 Number of PW having severe anaemia (Hb < 7) treated M1 [Ante Natal Care (ANC)] 5 NA 5 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.5.1 Number of PW tested for Blood Sugar using OGTT(Oral Glucose Tolerance Test) M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.5.2 Number of PW tested positive for GDM M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.5.3 Number of PW given insulin out of total tested positive for GDM M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.6.1.a Number of PW tested using POC test for Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.6.1.b Out of above,number of PW found sero positive for Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.6.2.a Number of pregnant women tested for Syphilis M1 [Ante Natal Care (ANC)] 126 NA 126 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.6.2.b Number of pregnant women tested found sero positive for Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.6.2.c Number of syphilis positive pregnanat women treated for Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.6.2.d Number of babies daignosed with Congenital Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     1.6.2.e Number of babies treated for Congenital Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     2.1.1.a Number of Home Deliveries attended by Skill Birth Attendant(SBA) (Doctor/Nurse/ANM/ Midwife) M2 [Deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     2.1.1.b Number of Home Deliveries attended by Non SBA (Trained Birth Attendant(TBA) /Relatives/etc.) M2 [Deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     2.1.2 Number of PW given Tablet Misoprostol during home delivery M2 [Deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     2.1.3 Number of newborns received 7 Home Based Newborn Care (HBNC) visits in case of Home delivery M2 [Deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     2.2 Number of Institutional Deliveries conducted (Including C-Sections) M2 [Deliveries] 131 NA 131 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     2.2.1 Out of total institutional deliveries number of women discharged within 48 hours of delivery M2 [Deliveries] 14 NA 14 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     2.2.2 Number of newborns received 6 HBNC  visits after Institutional Delivery M2 [Deliveries] 154 NA 154 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     3.1 Total C -Section deliveries performed M3 [Number of Caesarean (C-Section) deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     3.1.1 C-sections, performed at night (8 PM- 8 AM) M3 [Number of Caesarean (C-Section) deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     4.1.1.a Live Birth - Male M4 [Pregnancy outcome & details of new-born] 69 NA 69 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     4.1.1.b Live Birth - Female M4 [Pregnancy outcome & details of new-born] 61 NA 61 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     4.1.2 Number of Pre term newborns (< 37 weeks of pregnancy) M4 [Pregnancy outcome & details of new-born] 2 NA 2 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     4.1.3 Still Birth M4 [Pregnancy outcome & details of new-born] 3 NA 3 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     4.2 Abortion (spontaneous) M4 [Pregnancy outcome & details of new-born] 4 NA 4 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     4.3.1.a MTP up to 12 weeks of pregnancy M4 [Pregnancy outcome & details of new-born] 2 NA 2 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     4.3.1.b MTP more than 12 weeks of pregnancy M4 [Pregnancy outcome & details of new-born] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     4.3.2.a Post Abortion/ MTP Complications Identified M4 [Pregnancy outcome & details of new-born] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     4.3.2.b Post Abortion/ MTP Complications Treated M4 [Pregnancy outcome & details of new-born] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     4.3.3 Number of women provided with post abortion/ MTP contraception M4 [Pregnancy outcome & details of new-born] 2 NA 2 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     4.4.1 Number of newborns weighed at birth M4 [Pregnancy outcome & details of new-born] 130 NA 130 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     4.4.2 Number of newborns having weight less than 2.5 kg M4 [Pregnancy outcome & details of new-born] 10 NA 10 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     4.4.3 Number of Newborns breast fed within 1 hour of birth  M4 [Pregnancy outcome & details of new-born] 130 NA 130 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     5.1 Number of cases of pregnant women with Obstetric Complications attended (Antepartum haemorrhage (APH), Post-Partum Hemorrhage (PPH), Sepsis, Eclampsia and others) M5 [Complicated Pregnancies] 4 NA 4 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     5.2 Number of Complicated pregnancies treated with Blood Transfusion M5 [Complicated Pregnancies] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     6.1 Women receiving 1st post partum checkups within 48 hours of home delivery M6 [Post Natal Care (PNC)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     6.2 Women receiving 1st post partum checkup between 48 hours and 14 days M6 [Post Natal Care (PNC)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     6.3 Number of mothers provided full course of 180 IFA tablets after delivery M6 [Post Natal Care (PNC)] 132 NA 132 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     6.4 Number of mothers provided full course of 360 Calcium tablets after delivery M6 [Post Natal Care (PNC)] 132 NA 132 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     7.1.1 New RTI/STI cases identified - Male M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     7.1.2 New RTI/STI cases identified - Female M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     7.2.1 RTI/STI for which treatment initiated - Male M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     7.2.2 RTI/STI for which treatment initiated -Female M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.1.1 Number of Non Scalpel Vasectomy (NSV) / Conventional Vasectomy conducted M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.2.1 Number of Laparoscopic sterilizations (excluding post abortion) conducted M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.2.2 Number of Interval Mini-lap (other than post-partum and post abortion) sterilizations conducted M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.2.3 Number of Postpartum sterilizations (within 7 days of delivery by minilap or concurrent with caesarean section) conducted M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.2.4 Number of Post Abortion sterilizations (within 7 days of spontaneous or surgical abortion) conducted M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.3 Number of Interval IUCD Insertions (excluding PPIUCD and PAIUCD) M8 [Family Planning] 87 NA 87 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.4 Number of Postpartum (within 48 hours of delivery) IUCD insertions M8 [Family Planning] 30 NA 30 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.5 Number of Post Abortion (within 12 days of spontaneous or surgical abortion) IUCD insertions M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.6 Number of IUCD Removals M8 [Family Planning] 19 NA 19 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.7 Number of complications following IUCD Insertion M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.8 Injectable Contraceptive-Antara Program- First Dose M8 [Family Planning] 4 NA 4 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.9 Injectable Contraceptive-Antara Program- Second Dose M8 [Family Planning] 1 NA 1 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.10 Injectable Contraceptive-Antara Program- Third Dose M8 [Family Planning] 1 NA 1 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.11 Injectable Contraceptive-Antara Program- Fourth or more than fourth M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.12 Number of Combined Oral Pill cycles distributed M8 [Family Planning] 1334 NA 1334 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.13 Number of Condom pieces distributed M8 [Family Planning] 5989 NA 5989 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.14 Number of Centchroman (weekly) pill strips distributed M8 [Family Planning] 172 NA 172 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.15 Number of Emergency Contraceptive Pills (ECP) given M8 [Family Planning] 4 NA 4 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.16 Number of Pregnancy Test Kits (PTK) used M8 [Family Planning] 403 NA 403 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.17.1 Complications following male sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.17.2 Complications following female sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.17.3 Failures following male sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.17.4 Failures following female sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.17.5 Deaths following male sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     8.17.6 Deaths following female sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.1.1 Child immunisation - Vitamin K (Birth Dose) M9 [CHILD IMMUNISATION] 130 NA 130 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.1.2 Child immunisation - BCG M9 [CHILD IMMUNISATION] 130 NA 130 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.1.3 Child immunisation - DPT1 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.1.4 Child immunisation - DPT2 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.1.5 Child immunisation - DPT3 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.1.6 Child immunisation - Pentavalent 1 M9 [CHILD IMMUNISATION] 147 NA 147 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.1.7 Child immunisation - Pentavalent 2 M9 [CHILD IMMUNISATION] 184 NA 184 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.1.8 Child immunisation - Pentavalent 3 M9 [CHILD IMMUNISATION] 173 NA 173 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.1.9 Child immunisation - OPV 0 (Birth Dose) M9 [CHILD IMMUNISATION] 130 NA 130 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.1.10 Child immunisation - OPV1 M9 [CHILD IMMUNISATION] 147 NA 147 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.1.11 Child immunisation - OPV2 M9 [CHILD IMMUNISATION] 184 NA 184 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.1.12 Child immunisation - OPV3 M9 [CHILD IMMUNISATION] 173 NA 173 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.1.13 Child immunisation - Hepatitis-B0 (Birth Dose) M9 [CHILD IMMUNISATION] 130 NA 130 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.1.14 Child immunisation - Hepatitis-B1 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.1.15 Child immunisation - Hepatitis-B2 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.1.16 Child immunisation - Hepatitis-B3 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.1.17 Child immunisation - Inactivated Injectable Polio Vaccine 1 (IPV 1) M9 [CHILD IMMUNISATION] 147 NA 147 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.1.18 Child immunisation - Inactivated Injectable Polio Vaccine 2 (IPV 2) M9 [CHILD IMMUNISATION] 174 NA 174 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.1.19 Child immunisation - Rotavirus 1 M9 [CHILD IMMUNISATION] 147 NA 147 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.1.20 Child immunisation - Rotavirus 2 M9 [CHILD IMMUNISATION] 184 NA 184 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.1.21 Child immunisation - Rotavirus 3 M9 [CHILD IMMUNISATION] 173 NA 173 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.1.22 Child Immunisation- PCV 1 M9 [CHILD IMMUNISATION] 147 NA 147 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.1.23 Child Immunisation- PCV 2 M9 [CHILD IMMUNISATION] 174 NA 174 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.1.24 Child Immunisation- PCV Booster M9 [CHILD IMMUNISATION] 187 NA 187 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.2.1 Child immunisation (9-11months) - Measles & Rubella (MR)/ Measles containing vaccine(MCV) - 1st Dose M9 [CHILD IMMUNISATION] 187 NA 187 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.2.2 Child immunisation (9-11months) - Measles 1st dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.2.3 Child immunisation (9-11months) - JE 1st dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.2.4.a Children aged between 9 and 11 months fully immunized- Male M9 [CHILD IMMUNISATION] 95 NA 95 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.2.4.b Children aged between 9 and 11 months fully immunized - Female M9 [CHILD IMMUNISATION] 92 NA 92 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.3.1 Child immunisation(after 12 months) - Measles & Rubella (MR)/Measles containing vaccine(MCV)- 1st Dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.3.2 Child immunisation (after 12 months) - Measles-1st dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.3.3 Child immunisation (after 12 months) - JE 1st dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.4.1 Child immunisation - Measles & Rubella (MR)- 2nd Dose (16-24 months) M9 [CHILD IMMUNISATION] 144 NA 144 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.4.2 Child immunisation - Measles 2nd dose (More than 16 months) M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.4.3 Child immunisation - DPT 1st Booster M9 [CHILD IMMUNISATION] 144 NA 144 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.4.4 Child immunisation - OPV Booster M9 [CHILD IMMUNISATION] 144 NA 144 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.4.5 Child immunisation - Measles, Mumps, Rubella (MMR) Vaccine M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.4.6 Number of children more than 16 months of age who received Japanese Encephalitis (JE) vaccine M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.5.1 Child immunisation - Typhoid M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.5.2 Children more than 5 years received DPT5 (2nd Booster) M9 [CHILD IMMUNISATION] 143 NA 143 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.5.3 Children more than 10 years received TT10/ Td10 M9 [CHILD IMMUNISATION] 129 NA 129 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.5.4 Children more than 16 years received TT16/ Td16 M9 [CHILD IMMUNISATION] 116 NA 116 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.6.1 Number of cases of AEFI - Abscess M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.6.2 Number of cases of AEFI - Death M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.6.3 Number of cases of AEFI - Others M9 [CHILD IMMUNISATION] 9 NA 9 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.7.1 Immunisation sessions planned M9 [CHILD IMMUNISATION] 162 NA 162 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.7.2 Immunisation sessions held M9 [CHILD IMMUNISATION] 162 NA 162 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.7.3 Number of Immunisation sessions where ASHAs were present M9 [CHILD IMMUNISATION] 139 NA 139 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.8.1 Child immunisation - Vitamin A Dose - 1 M9 [CHILD IMMUNISATION] 187 NA 187 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.8.2 Child immunisation - Vitamin A Dose - 5 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.8.3 Child immunisation - Vitamin A Dose - 9 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.9 Number of children (6-59 months) provided 8-10 doses (1ml) of IFA syrup (Bi weekly) M9 [CHILD IMMUNISATION] 11603 NA 11603 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.10 Number of children (12-59 months) provided Albendazole M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     9.11 Number of severely underweight children provided Health Checkup (0-5 years) M9 [CHILD IMMUNISATION] 11 NA 11 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     10.1 Childhood Diseases - Pneumonia M10 [Number of cases of Childhood Diseases (0-5 years)] 6 NA 6 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     10.2 Childhood Diseases - Asthma M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     10.3 Childhood Diseases - Sepsis M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     10.4 Childhood Diseases - Diphtheria M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     10.5 Childhood Diseases - Pertussis M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     10.6 Childhood Diseases - Tetanus Neonatorum M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     10.7 Childhood Diseases - Tuberculosis (TB) M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     10.8 Childhood Diseases - Acute Flaccid Paralysis(AFP) M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     10.9 Childhood Diseases - Measles M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     10.10 Childhood Diseases - Malaria M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     10.11 Childhood Diseases - Diarrhoea M10 [Number of cases of Childhood Diseases (0-5 years)] 43 NA 43 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     10.12 Childhood Diseases - Diarrhoea treated in Inpatients M10 [Number of cases of Childhood Diseases (0-5 years)] 9 NA 9 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     10.13 Children admitted with Respiratory Infections M10 [Number of cases of Childhood Diseases (0-5 years)] 2 NA 2 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     10.14 Childhood Diseases - Severe Acute Malnutrition (SAM) M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     11.1.1.a Total Blood Smears Examined for Malaria M11 [NVBDCP] 569 NA 569 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     11.1.1.b Malaria (Microscopy Tests ) - Plasmodium Vivax test positive M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     11.1.1.c Malaria (Microscopy Tests ) - Plasmodium Falciparum test positive M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     11.1.2.a RDT conducted for Malaria M11 [NVBDCP] 1787 NA 1787 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     11.1.2.b Malaria (RDT) - Plasmodium Vivax test positive M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     11.1.2.c Malaria (RDT) - Plamodium Falciparum test positive M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     11.2.1 Kala Azar (RDT) - Tests Conducted M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     11.2.2 Kala Azar Positive Cases M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     11.2.3 Post-kala-azar dermal leishmaniasis (PKDL) cases M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     11.3.1 Dengue - RDT Test Positive M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     12.1.1.a Girls registered in AFHC M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     12.1.1.b Boys registered in AFHC M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     12.1.2.a Out of registered, Girls received clinical services M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     12.1.2.b Out of registered, Boys received clinical services M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     12.1.3.a Out of registered, Girls received counselling M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     12.1.3.b Out of registered, Boys received counselling M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     13.1 Number of on-going DOTS patients registered M13 [Directly Observed Treatment, Short-course (DOTS)] 6 NA 6 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     13.2 Number of DOTS cases completed successfully M13 [Directly Observed Treatment, Short-course (DOTS)] 10 NA 10 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.1.1 Outpatient - Diabetes M14 [Patient Services] 87 NA 87 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.1.2 Outpatient - Hypertension M14 [Patient Services] 118 NA 118 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.1.3 Outpatient - Stroke (Paralysis) M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.1.4 Outpatient - Acute Heart Diseases M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.1.5 Outpatient - Mental illness M14 [Patient Services] 1 NA 1 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.1.6 Outpatient - Epilepsy M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.1.7 Outpatient - Ophthalmic Related M14 [Patient Services] 69 NA 69 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.1.8 Outpatient - Dental M14 [Patient Services] 3 NA 3 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.1.9 Outpatient - Oncology M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.2.1 Allopathic- Outpatient attendance M14 [Patient Services] 6451 NA 6451 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.2.2 Ayush - Outpatient attendance M14 [Patient Services] 531 NA 531 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.3.1.a Inpatient (Male) - Children < 18 years M14 [Patient Services] 15 NA 15 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.3.1.b Inpatient (Male)- Adults M14 [Patient Services] 215 NA 215 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.3.2.a Inpatient (Female) - Children < 18 years M14 [Patient Services] 33 NA 33 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.3.2.b Inpatient (Female)- Adults M14 [Patient Services] 378 NA 378 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.3.3 Number of Left Against Medical Advice (LAMA) cases M14 [Patient Services] 46 NA 46 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.4.1 Inpatient - Malaria M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.4.2 Inpatient - Dengue M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.4.3 Inpatient - Typhoid M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.4.4 Inpatient - Asthma, Chronic Obstructive Pulmonary Disease (COPD), Respiratory infections M14 [Patient Services] 29 NA 29 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.4.5 Inpatient - Tuberculosis M14 [Patient Services] 1 NA 1 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.4.6 Inpatient - Pyrexia of unknown origin (PUO) M14 [Patient Services] 63 NA 63 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.4.7 Inpatient - Diarrhea with dehydration M14 [Patient Services] 27 NA 27 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.4.8 Inpatient - Hepatitis M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.5 Patients registered at Emergency Department M14 [Patient Services] 197 NA 197 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.6.1 Emergency - Trauma ( accident, injury, poisoning etc) M14 [Patient Services] 55 NA 55 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.6.2 Emergency - Burn M14 [Patient Services] 1 NA 1 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.6.3 Emergency - Obstetrics complications M14 [Patient Services] 2 NA 2 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.6.4 Emergency - Snake Bite M14 [Patient Services] 4 NA 4 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.6.5 Emergency - Acute Caridiac Emergencies M14 [Patient Services] 7 NA 7 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.6.7 Emergency - CVA ( Cerebovascular Disease) M14 [Patient Services] 2 NA 2 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.7 Number of deaths occurring at Emergency Department M14 [Patient Services] 3 NA 3 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.8.1 Operation major (General and spinal anaesthesia) M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.8.2 Out of Operation major, Gynecology- Hysterectomy surgeries M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.8.4 Operation minor (No or local anaesthesia) M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.8.6 Number of blood units issued M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.8.7 Number of blood transfusions done M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.9.1 Inpatient Deaths - Male M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.9.2 Inpatient Deaths - Female M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.10 In-Patient Head Count at midnight M14 [Patient Services] 195 NA 195 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.11 Number of Admission in NBSU ( New Born Stabilisation Unit) M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.12.1 Special Newborn Care Unit (SNCU Admissions) - Inborn Male M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.12.2 Special Newborn Care Unit (SNCU Admissions) - Inborn Female M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.12.3 Outborn – Male M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.12.4 Outborn - Female M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.12.5 Number of newborns admitted in SNCU - referred by ASHA M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.13 Number of deaths occurring at SNCU M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.14.1 Number of children admitted in NRC M14 [Patient Services] 4 NA 4 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.14.2 Number of children discharged with target weight gain from the NRCs M14 [Patient Services] 3 NA 3 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.15 Number of Rogi Kalyan Samiti (RKS) meetings held M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     14.16 Number of Anganwadi centres/ UPHCs reported to have conducted Village Health & Nutrition Day (VHNDs)/ Urban Health & Nutrition Day (UHNDs)/ Outreach / Special Outreach M14 [Patient Services] 159 NA 159 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     15.1 Number of Lab Tests done M15 [Laboratory Testing] 3376 NA 3376 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     15.2.1 Number of Hb tests conducted M15 [Laboratory Testing] 1136 NA 1136 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     15.2.2 Out of the total number of Hb tests done, Number having Hb < 7 mg M15 [Laboratory Testing] 16 NA 16 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     15.3.1.a Male HIV - Number Tested (by finger prick test) M15 [Laboratory Testing] 9 NA 9 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     15.3.1.b Male HIV - Number Positive M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     15.3.2.a Female Non ANC HIV - Number Tested (by finger prick test) M15 [Laboratory Testing] 12 NA 12 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     15.3.2.b Female Non ANC HIV - Number Positive M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     15.3.3.a Number of pregnant women screened for HIV (by finger prick test) M15 [Laboratory Testing] 126 NA 126 NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     15.3.3.b Out of the above, number screened positive M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     15.3.3.c Out of the above number screened positive, number confirmed with HIV infection at Integrated Counselling and Testing Centre (ICTC) M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     15.3.4.a Number of Male STI/RTI attendees tested for syphilis M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     15.3.4.b Number of Male STI/RTI attendeees found sero Positive for syphilis M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     15.3.4.c Number of Female(Non ANC)STI/RTI attendees tested for syphilis M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     15.3.4.d Number of Female(Non ANC)STI/RTI attendees found sero Positive for syphilis M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     15.4.1 Widal tests - Number Tested M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     15.4.2 Widal tests - Number Positive M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Harsud 2021-22 April     15.5.1 Radiology - X-ray M15 [Laboratory Testing] 132 NA 132 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.1 Total number of pregnant women registered for ANC M1 [Ante Natal Care (ANC)] 504 NA 504 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.1.1 Out of the total ANC registered, number registered within 1st trimester (within 12 weeks) M1 [Ante Natal Care (ANC)] 483 NA 483 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.2.1 Number of PW given TT1/ Td1 M1 [Ante Natal Care (ANC)] 395 NA 395 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.2.2 Number of PW given TT2 / Td2 M1 [Ante Natal Care (ANC)] 343 NA 343 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.2.3 Number of PW given TT Booster/ Td Booster M1 [Ante Natal Care (ANC)] 90 NA 90 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.2.4 Number of PW provided full Course 180 Iron Folic Acid (IFA) tablets M1 [Ante Natal Care (ANC)] 404 NA 404 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.2.5 Number of PW provided full Course 360 Calcium tablets M1 [Ante Natal Care (ANC)] 409 NA 409 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.2.6 Number of PW given one Albendazole tablet after 1st trimester M1 [Ante Natal Care (ANC)] 398 NA 398 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.2.7 Number of PW received 4 or more ANC check ups M1 [Ante Natal Care (ANC)] 331 NA 331 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.2.8 Number of PW given ANC Corticosteroids in Pre Term Labour M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.3.1 New cases of PW with hypertension detected M1 [Ante Natal Care (ANC)] 4 NA 4 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.3.1.a Out of the new cases of PW with hypertension detected, cases managed at institution M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.3.2 Number of Eclampsia cases managed during delivery M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.4.1 Number of PW tested for Haemoglobin (Hb ) 4 or more than 4 times for respective ANCs M1 [Ante Natal Care (ANC)] 342 NA 342 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.4.2 Number of PW having Hb level<11 (out of total tested cases)(7.1 to 10.9) M1 [Ante Natal Care (ANC)] 383 NA 383 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.4.3 Number of PW having Hb level<7 (out of total tested cases) M1 [Ante Natal Care (ANC)] 3 NA 3 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.4.4 Number of PW having severe anaemia (Hb < 7) treated M1 [Ante Natal Care (ANC)] 3 NA 3 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.5.1 Number of PW tested for Blood Sugar using OGTT(Oral Glucose Tolerance Test) M1 [Ante Natal Care (ANC)] 10 NA 10 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.5.2 Number of PW tested positive for GDM M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.5.3 Number of PW given insulin out of total tested positive for GDM M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.6.1.a Number of PW tested using POC test for Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.6.1.b Out of above,number of PW found sero positive for Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.6.2.a Number of pregnant women tested for Syphilis M1 [Ante Natal Care (ANC)] 191 NA 191 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.6.2.b Number of pregnant women tested found sero positive for Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.6.2.c Number of syphilis positive pregnanat women treated for Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.6.2.d Number of babies daignosed with Congenital Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     1.6.2.e Number of babies treated for Congenital Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     2.1.1.a Number of Home Deliveries attended by Skill Birth Attendant(SBA) (Doctor/Nurse/ANM/ Midwife) M2 [Deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     2.1.1.b Number of Home Deliveries attended by Non SBA (Trained Birth Attendant(TBA) /Relatives/etc.) M2 [Deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     2.1.2 Number of PW given Tablet Misoprostol during home delivery M2 [Deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     2.1.3 Number of newborns received 7 Home Based Newborn Care (HBNC) visits in case of Home delivery M2 [Deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     2.2 Number of Institutional Deliveries conducted (Including C-Sections) M2 [Deliveries] 188 NA 188 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     2.2.1 Out of total institutional deliveries number of women discharged within 48 hours of delivery M2 [Deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     2.2.2 Number of newborns received 6 HBNC  visits after Institutional Delivery M2 [Deliveries] 290 NA 290 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     3.1 Total C -Section deliveries performed M3 [Number of Caesarean (C-Section) deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     3.1.1 C-sections, performed at night (8 PM- 8 AM) M3 [Number of Caesarean (C-Section) deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     4.1.1.a Live Birth - Male M4 [Pregnancy outcome & details of new-born] 99 NA 99 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     4.1.1.b Live Birth - Female M4 [Pregnancy outcome & details of new-born] 85 NA 85 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     4.1.2 Number of Pre term newborns (< 37 weeks of pregnancy) M4 [Pregnancy outcome & details of new-born] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     4.1.3 Still Birth M4 [Pregnancy outcome & details of new-born] 4 NA 4 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     4.2 Abortion (spontaneous) M4 [Pregnancy outcome & details of new-born] 13 NA 13 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     4.3.1.a MTP up to 12 weeks of pregnancy M4 [Pregnancy outcome & details of new-born] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     4.3.1.b MTP more than 12 weeks of pregnancy M4 [Pregnancy outcome & details of new-born] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     4.3.2.a Post Abortion/ MTP Complications Identified M4 [Pregnancy outcome & details of new-born] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     4.3.2.b Post Abortion/ MTP Complications Treated M4 [Pregnancy outcome & details of new-born] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     4.3.3 Number of women provided with post abortion/ MTP contraception M4 [Pregnancy outcome & details of new-born] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     4.4.1 Number of newborns weighed at birth M4 [Pregnancy outcome & details of new-born] 184 NA 184 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     4.4.2 Number of newborns having weight less than 2.5 kg M4 [Pregnancy outcome & details of new-born] 22 NA 22 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     4.4.3 Number of Newborns breast fed within 1 hour of birth  M4 [Pregnancy outcome & details of new-born] 184 NA 184 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     5.1 Number of cases of pregnant women with Obstetric Complications attended (Antepartum haemorrhage (APH), Post-Partum Hemorrhage (PPH), Sepsis, Eclampsia and others) M5 [Complicated Pregnancies] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     5.2 Number of Complicated pregnancies treated with Blood Transfusion M5 [Complicated Pregnancies] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     6.1 Women receiving 1st post partum checkups within 48 hours of home delivery M6 [Post Natal Care (PNC)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     6.2 Women receiving 1st post partum checkup between 48 hours and 14 days M6 [Post Natal Care (PNC)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     6.3 Number of mothers provided full course of 180 IFA tablets after delivery M6 [Post Natal Care (PNC)] 178 NA 178 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     6.4 Number of mothers provided full course of 360 Calcium tablets after delivery M6 [Post Natal Care (PNC)] 177 NA 177 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     7.1.1 New RTI/STI cases identified - Male M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     7.1.2 New RTI/STI cases identified - Female M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     7.2.1 RTI/STI for which treatment initiated - Male M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     7.2.2 RTI/STI for which treatment initiated -Female M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.1.1 Number of Non Scalpel Vasectomy (NSV) / Conventional Vasectomy conducted M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.2.1 Number of Laparoscopic sterilizations (excluding post abortion) conducted M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.2.2 Number of Interval Mini-lap (other than post-partum and post abortion) sterilizations conducted M8 [Family Planning] 1 NA 1 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.2.3 Number of Postpartum sterilizations (within 7 days of delivery by minilap or concurrent with caesarean section) conducted M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.2.4 Number of Post Abortion sterilizations (within 7 days of spontaneous or surgical abortion) conducted M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.3 Number of Interval IUCD Insertions (excluding PPIUCD and PAIUCD) M8 [Family Planning] 38 NA 38 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.4 Number of Postpartum (within 48 hours of delivery) IUCD insertions M8 [Family Planning] 19 NA 19 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.5 Number of Post Abortion (within 12 days of spontaneous or surgical abortion) IUCD insertions M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.6 Number of IUCD Removals M8 [Family Planning] 5 NA 5 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.7 Number of complications following IUCD Insertion M8 [Family Planning] 1 NA 1 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.8 Injectable Contraceptive-Antara Program- First Dose M8 [Family Planning] 10 NA 10 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.9 Injectable Contraceptive-Antara Program- Second Dose M8 [Family Planning] 3 NA 3 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.10 Injectable Contraceptive-Antara Program- Third Dose M8 [Family Planning] 2 NA 2 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.11 Injectable Contraceptive-Antara Program- Fourth or more than fourth M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.12 Number of Combined Oral Pill cycles distributed M8 [Family Planning] 993 NA 993 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.13 Number of Condom pieces distributed M8 [Family Planning] 2776 NA 2776 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.14 Number of Centchroman (weekly) pill strips distributed M8 [Family Planning] 52 NA 52 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.15 Number of Emergency Contraceptive Pills (ECP) given M8 [Family Planning] 26 NA 26 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.16 Number of Pregnancy Test Kits (PTK) used M8 [Family Planning] 593 NA 593 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.17.1 Complications following male sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.17.2 Complications following female sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.17.3 Failures following male sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.17.4 Failures following female sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.17.5 Deaths following male sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     8.17.6 Deaths following female sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.1.1 Child immunisation - Vitamin K (Birth Dose) M9 [CHILD IMMUNISATION] 180 NA 180 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.1.2 Child immunisation - BCG M9 [CHILD IMMUNISATION] 180 NA 180 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.1.3 Child immunisation - DPT1 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.1.4 Child immunisation - DPT2 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.1.5 Child immunisation - DPT3 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.1.6 Child immunisation - Pentavalent 1 M9 [CHILD IMMUNISATION] 317 NA 317 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.1.7 Child immunisation - Pentavalent 2 M9 [CHILD IMMUNISATION] 362 NA 362 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.1.8 Child immunisation - Pentavalent 3 M9 [CHILD IMMUNISATION] 400 NA 400 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.1.9 Child immunisation - OPV 0 (Birth Dose) M9 [CHILD IMMUNISATION] 180 NA 180 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.1.10 Child immunisation - OPV1 M9 [CHILD IMMUNISATION] 304 NA 304 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.1.11 Child immunisation - OPV2 M9 [CHILD IMMUNISATION] 362 NA 362 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.1.12 Child immunisation - OPV3 M9 [CHILD IMMUNISATION] 411 NA 411 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.1.13 Child immunisation - Hepatitis-B0 (Birth Dose) M9 [CHILD IMMUNISATION] 180 NA 180 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.1.14 Child immunisation - Hepatitis-B1 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.1.15 Child immunisation - Hepatitis-B2 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.1.16 Child immunisation - Hepatitis-B3 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.1.17 Child immunisation - Inactivated Injectable Polio Vaccine 1 (IPV 1) M9 [CHILD IMMUNISATION] 304 NA 304 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.1.18 Child immunisation - Inactivated Injectable Polio Vaccine 2 (IPV 2) M9 [CHILD IMMUNISATION] 412 NA 412 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.1.19 Child immunisation - Rotavirus 1 M9 [CHILD IMMUNISATION] 304 NA 304 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.1.20 Child immunisation - Rotavirus 2 M9 [CHILD IMMUNISATION] 362 NA 362 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.1.21 Child immunisation - Rotavirus 3 M9 [CHILD IMMUNISATION] 411 NA 411 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.1.22 Child Immunisation- PCV 1 M9 [CHILD IMMUNISATION] 294 NA 294 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.1.23 Child Immunisation- PCV 2 M9 [CHILD IMMUNISATION] 390 NA 390 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.1.24 Child Immunisation- PCV Booster M9 [CHILD IMMUNISATION] 350 NA 350 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.2.1 Child immunisation (9-11months) - Measles & Rubella (MR)/ Measles containing vaccine(MCV) - 1st Dose M9 [CHILD IMMUNISATION] 363 NA 363 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.2.2 Child immunisation (9-11months) - Measles 1st dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.2.3 Child immunisation (9-11months) - JE 1st dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.2.4.a Children aged between 9 and 11 months fully immunized- Male M9 [CHILD IMMUNISATION] 192 NA 192 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.2.4.b Children aged between 9 and 11 months fully immunized - Female M9 [CHILD IMMUNISATION] 178 NA 178 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.3.1 Child immunisation(after 12 months) - Measles & Rubella (MR)/Measles containing vaccine(MCV)- 1st Dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.3.2 Child immunisation (after 12 months) - Measles-1st dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.3.3 Child immunisation (after 12 months) - JE 1st dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.4.1 Child immunisation - Measles & Rubella (MR)- 2nd Dose (16-24 months) M9 [CHILD IMMUNISATION] 354 NA 354 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.4.2 Child immunisation - Measles 2nd dose (More than 16 months) M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.4.3 Child immunisation - DPT 1st Booster M9 [CHILD IMMUNISATION] 354 NA 354 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.4.4 Child immunisation - OPV Booster M9 [CHILD IMMUNISATION] 354 NA 354 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.4.5 Child immunisation - Measles, Mumps, Rubella (MMR) Vaccine M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.4.6 Number of children more than 16 months of age who received Japanese Encephalitis (JE) vaccine M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.5.1 Child immunisation - Typhoid M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.5.2 Children more than 5 years received DPT5 (2nd Booster) M9 [CHILD IMMUNISATION] 264 NA 264 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.5.3 Children more than 10 years received TT10/ Td10 M9 [CHILD IMMUNISATION] 246 NA 246 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.5.4 Children more than 16 years received TT16/ Td16 M9 [CHILD IMMUNISATION] 254 NA 254 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.6.1 Number of cases of AEFI - Abscess M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.6.2 Number of cases of AEFI - Death M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.6.3 Number of cases of AEFI - Others M9 [CHILD IMMUNISATION] 5 NA 5 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.7.1 Immunisation sessions planned M9 [CHILD IMMUNISATION] 376 NA 376 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.7.2 Immunisation sessions held M9 [CHILD IMMUNISATION] 355 NA 355 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.7.3 Number of Immunisation sessions where ASHAs were present M9 [CHILD IMMUNISATION] 314 NA 314 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.8.1 Child immunisation - Vitamin A Dose - 1 M9 [CHILD IMMUNISATION] 342 NA 342 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.8.2 Child immunisation - Vitamin A Dose - 5 M9 [CHILD IMMUNISATION] 2 NA 2 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.8.3 Child immunisation - Vitamin A Dose - 9 M9 [CHILD IMMUNISATION] 3 NA 3 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.9 Number of children (6-59 months) provided 8-10 doses (1ml) of IFA syrup (Bi weekly) M9 [CHILD IMMUNISATION] 19218 NA 19218 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.10 Number of children (12-59 months) provided Albendazole M9 [CHILD IMMUNISATION] 250 NA 250 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     9.11 Number of severely underweight children provided Health Checkup (0-5 years) M9 [CHILD IMMUNISATION] 39 NA 39 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     10.1 Childhood Diseases - Pneumonia M10 [Number of cases of Childhood Diseases (0-5 years)] 1 NA 1 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     10.2 Childhood Diseases - Asthma M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     10.3 Childhood Diseases - Sepsis M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     10.4 Childhood Diseases - Diphtheria M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     10.5 Childhood Diseases - Pertussis M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     10.6 Childhood Diseases - Tetanus Neonatorum M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     10.7 Childhood Diseases - Tuberculosis (TB) M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     10.8 Childhood Diseases - Acute Flaccid Paralysis(AFP) M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     10.9 Childhood Diseases - Measles M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     10.10 Childhood Diseases - Malaria M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     10.11 Childhood Diseases - Diarrhoea M10 [Number of cases of Childhood Diseases (0-5 years)] 43 NA 43 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     10.12 Childhood Diseases - Diarrhoea treated in Inpatients M10 [Number of cases of Childhood Diseases (0-5 years)] 17 NA 17 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     10.13 Children admitted with Respiratory Infections M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     10.14 Childhood Diseases - Severe Acute Malnutrition (SAM) M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     11.1.1.a Total Blood Smears Examined for Malaria M11 [NVBDCP] 1541 NA 1541 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     11.1.1.b Malaria (Microscopy Tests ) - Plasmodium Vivax test positive M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     11.1.1.c Malaria (Microscopy Tests ) - Plasmodium Falciparum test positive M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     11.1.2.a RDT conducted for Malaria M11 [NVBDCP] 1603 NA 1603 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     11.1.2.b Malaria (RDT) - Plasmodium Vivax test positive M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     11.1.2.c Malaria (RDT) - Plamodium Falciparum test positive M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     11.2.1 Kala Azar (RDT) - Tests Conducted M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     11.2.2 Kala Azar Positive Cases M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     11.2.3 Post-kala-azar dermal leishmaniasis (PKDL) cases M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     11.3.1 Dengue - RDT Test Positive M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     12.1.1.a Girls registered in AFHC M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     12.1.1.b Boys registered in AFHC M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     12.1.2.a Out of registered, Girls received clinical services M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     12.1.2.b Out of registered, Boys received clinical services M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     12.1.3.a Out of registered, Girls received counselling M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     12.1.3.b Out of registered, Boys received counselling M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     13.1 Number of on-going DOTS patients registered M13 [Directly Observed Treatment, Short-course (DOTS)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     13.2 Number of DOTS cases completed successfully M13 [Directly Observed Treatment, Short-course (DOTS)] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.1.1 Outpatient - Diabetes M14 [Patient Services] 162 NA 162 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.1.2 Outpatient - Hypertension M14 [Patient Services] 269 NA 269 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.1.3 Outpatient - Stroke (Paralysis) M14 [Patient Services] 6 NA 6 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.1.4 Outpatient - Acute Heart Diseases M14 [Patient Services] 8 NA 8 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.1.5 Outpatient - Mental illness M14 [Patient Services] 7 NA 7 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.1.6 Outpatient - Epilepsy M14 [Patient Services] 3 NA 3 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.1.7 Outpatient - Ophthalmic Related M14 [Patient Services] 179 NA 179 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.1.8 Outpatient - Dental M14 [Patient Services] 174 NA 174 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.1.9 Outpatient - Oncology M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.2.1 Allopathic- Outpatient attendance M14 [Patient Services] 12292 NA 12292 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.2.2 Ayush - Outpatient attendance M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.3.1.a Inpatient (Male) - Children < 18 years M14 [Patient Services] 37 NA 37 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.3.1.b Inpatient (Male)- Adults M14 [Patient Services] 149 NA 149 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.3.2.a Inpatient (Female) - Children < 18 years M14 [Patient Services] 31 NA 31 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.3.2.b Inpatient (Female)- Adults M14 [Patient Services] 172 NA 172 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.3.3 Number of Left Against Medical Advice (LAMA) cases M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.4.1 Inpatient - Malaria M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.4.2 Inpatient - Dengue M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.4.3 Inpatient - Typhoid M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.4.4 Inpatient - Asthma, Chronic Obstructive Pulmonary Disease (COPD), Respiratory infections M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.4.5 Inpatient - Tuberculosis M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.4.6 Inpatient - Pyrexia of unknown origin (PUO) M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.4.7 Inpatient - Diarrhea with dehydration M14 [Patient Services] 13 NA 13 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.4.8 Inpatient - Hepatitis M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.5 Patients registered at Emergency Department M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.6.1 Emergency - Trauma ( accident, injury, poisoning etc) M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.6.2 Emergency - Burn M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.6.3 Emergency - Obstetrics complications M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.6.4 Emergency - Snake Bite M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.6.5 Emergency - Acute Caridiac Emergencies M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.6.7 Emergency - CVA ( Cerebovascular Disease) M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.7 Number of deaths occurring at Emergency Department M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.8.1 Operation major (General and spinal anaesthesia) M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.8.2 Out of Operation major, Gynecology- Hysterectomy surgeries M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.8.4 Operation minor (No or local anaesthesia) M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.8.6 Number of blood units issued M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.8.7 Number of blood transfusions done M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.9.1 Inpatient Deaths - Male M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.9.2 Inpatient Deaths - Female M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.10 In-Patient Head Count at midnight M14 [Patient Services] 376 NA 376 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.11 Number of Admission in NBSU ( New Born Stabilisation Unit) M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.12.1 Special Newborn Care Unit (SNCU Admissions) - Inborn Male M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.12.2 Special Newborn Care Unit (SNCU Admissions) - Inborn Female M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.12.3 Outborn – Male M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.12.4 Outborn - Female M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.12.5 Number of newborns admitted in SNCU - referred by ASHA M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.13 Number of deaths occurring at SNCU M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.14.1 Number of children admitted in NRC M14 [Patient Services] 7 NA 7 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.14.2 Number of children discharged with target weight gain from the NRCs M14 [Patient Services] 7 NA 7 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.15 Number of Rogi Kalyan Samiti (RKS) meetings held M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     14.16 Number of Anganwadi centres/ UPHCs reported to have conducted Village Health & Nutrition Day (VHNDs)/ Urban Health & Nutrition Day (UHNDs)/ Outreach / Special Outreach M14 [Patient Services] 287 NA 287 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     15.1 Number of Lab Tests done M15 [Laboratory Testing] 4142 NA 4142 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     15.2.1 Number of Hb tests conducted M15 [Laboratory Testing] 1251 NA 1251 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     15.2.2 Out of the total number of Hb tests done, Number having Hb < 7 mg M15 [Laboratory Testing] 2 NA 2 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     15.3.1.a Male HIV - Number Tested (by finger prick test) M15 [Laboratory Testing] 141 NA 141 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     15.3.1.b Male HIV - Number Positive M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     15.3.2.a Female Non ANC HIV - Number Tested (by finger prick test) M15 [Laboratory Testing] 120 NA 120 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     15.3.2.b Female Non ANC HIV - Number Positive M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     15.3.3.a Number of pregnant women screened for HIV (by finger prick test) M15 [Laboratory Testing] 348 NA 348 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     15.3.3.b Out of the above, number screened positive M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     15.3.3.c Out of the above number screened positive, number confirmed with HIV infection at Integrated Counselling and Testing Centre (ICTC) M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     15.3.4.a Number of Male STI/RTI attendees tested for syphilis M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     15.3.4.b Number of Male STI/RTI attendeees found sero Positive for syphilis M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     15.3.4.c Number of Female(Non ANC)STI/RTI attendees tested for syphilis M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     15.3.4.d Number of Female(Non ANC)STI/RTI attendees found sero Positive for syphilis M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     15.4.1 Widal tests - Number Tested M15 [Laboratory Testing] 68 NA 68 NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     15.4.2 Widal tests - Number Positive M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Khalwa 2021-22 April     15.5.1 Radiology - X-ray M15 [Laboratory Testing] 15 NA 15 NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.1 Total number of pregnant women registered for ANC M1 [Ante Natal Care (ANC)] 450 NA 414 36
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.1.1 Out of the total ANC registered, number registered within 1st trimester (within 12 weeks) M1 [Ante Natal Care (ANC)] 425 NA 394 31
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.2.1 Number of PW given TT1/ Td1 M1 [Ante Natal Care (ANC)] 286 NA 273 13
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.2.2 Number of PW given TT2 / Td2 M1 [Ante Natal Care (ANC)] 248 NA 241 7
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.2.3 Number of PW given TT Booster/ Td Booster M1 [Ante Natal Care (ANC)] 132 NA 128 4
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.2.4 Number of PW provided full Course 180 Iron Folic Acid (IFA) tablets M1 [Ante Natal Care (ANC)] 410 NA 391 19
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.2.5 Number of PW provided full Course 360 Calcium tablets M1 [Ante Natal Care (ANC)] 399 NA 380 19
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.2.6 Number of PW given one Albendazole tablet after 1st trimester M1 [Ante Natal Care (ANC)] 505 NA 273 232
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.2.7 Number of PW received 4 or more ANC check ups M1 [Ante Natal Care (ANC)] 342 NA 323 19
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.2.8 Number of PW given ANC Corticosteroids in Pre Term Labour M1 [Ante Natal Care (ANC)] 78 NA NA 78
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.3.1 New cases of PW with hypertension detected M1 [Ante Natal Care (ANC)] 17 NA NA 17
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.3.1.a Out of the new cases of PW with hypertension detected, cases managed at institution M1 [Ante Natal Care (ANC)] 17 NA NA 17
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.3.2 Number of Eclampsia cases managed during delivery M1 [Ante Natal Care (ANC)] 2 NA NA 2
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.4.1 Number of PW tested for Haemoglobin (Hb ) 4 or more than 4 times for respective ANCs M1 [Ante Natal Care (ANC)] 353 NA 334 19
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.4.2 Number of PW having Hb level<11 (out of total tested cases)(7.1 to 10.9) M1 [Ante Natal Care (ANC)] 287 NA 264 23
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.4.3 Number of PW having Hb level<7 (out of total tested cases) M1 [Ante Natal Care (ANC)] 19 1 3 17
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.4.4 Number of PW having severe anaemia (Hb < 7) treated M1 [Ante Natal Care (ANC)] 19 1 3 17
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.5.1 Number of PW tested for Blood Sugar using OGTT(Oral Glucose Tolerance Test) M1 [Ante Natal Care (ANC)] 127 NA NA 127
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.5.2 Number of PW tested positive for GDM M1 [Ante Natal Care (ANC)] 2 NA NA 2
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.5.3 Number of PW given insulin out of total tested positive for GDM M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.6.1.a Number of PW tested using POC test for Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.6.1.b Out of above,number of PW found sero positive for Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.6.2.a Number of pregnant women tested for Syphilis M1 [Ante Natal Care (ANC)] 267 NA 184 83
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.6.2.b Number of pregnant women tested found sero positive for Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.6.2.c Number of syphilis positive pregnanat women treated for Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.6.2.d Number of babies daignosed with Congenital Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     1.6.2.e Number of babies treated for Congenital Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     2.1.1.a Number of Home Deliveries attended by Skill Birth Attendant(SBA) (Doctor/Nurse/ANM/ Midwife) M2 [Deliveries] 1 NA 1 NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     2.1.1.b Number of Home Deliveries attended by Non SBA (Trained Birth Attendant(TBA) /Relatives/etc.) M2 [Deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     2.1.2 Number of PW given Tablet Misoprostol during home delivery M2 [Deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     2.1.3 Number of newborns received 7 Home Based Newborn Care (HBNC) visits in case of Home delivery M2 [Deliveries] 1 NA 1 NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     2.2 Number of Institutional Deliveries conducted (Including C-Sections) M2 [Deliveries] 659 128 108 679
+Madhya Pradesh East Nimar Khandwa 2021-22 April     2.2.1 Out of total institutional deliveries number of women discharged within 48 hours of delivery M2 [Deliveries] 96 31 NA 127
+Madhya Pradesh East Nimar Khandwa 2021-22 April     2.2.2 Number of newborns received 6 HBNC  visits after Institutional Delivery M2 [Deliveries] 251 2 251 2
+Madhya Pradesh East Nimar Khandwa 2021-22 April     3.1 Total C -Section deliveries performed M3 [Number of Caesarean (C-Section) deliveries] 220 91 NA 311
+Madhya Pradesh East Nimar Khandwa 2021-22 April     3.1.1 C-sections, performed at night (8 PM- 8 AM) M3 [Number of Caesarean (C-Section) deliveries] 59 5 NA 64
+Madhya Pradesh East Nimar Khandwa 2021-22 April     4.1.1.a Live Birth - Male M4 [Pregnancy outcome & details of new-born] 334 72 58 348
+Madhya Pradesh East Nimar Khandwa 2021-22 April     4.1.1.b Live Birth - Female M4 [Pregnancy outcome & details of new-born] 312 50 49 313
+Madhya Pradesh East Nimar Khandwa 2021-22 April     4.1.2 Number of Pre term newborns (< 37 weeks of pregnancy) M4 [Pregnancy outcome & details of new-born] 76 5 12 69
+Madhya Pradesh East Nimar Khandwa 2021-22 April     4.1.3 Still Birth M4 [Pregnancy outcome & details of new-born] 22 6 2 26
+Madhya Pradesh East Nimar Khandwa 2021-22 April     4.2 Abortion (spontaneous) M4 [Pregnancy outcome & details of new-born] 47 20 4 63
+Madhya Pradesh East Nimar Khandwa 2021-22 April     4.3.1.a MTP up to 12 weeks of pregnancy M4 [Pregnancy outcome & details of new-born] 19 65 4 80
+Madhya Pradesh East Nimar Khandwa 2021-22 April     4.3.1.b MTP more than 12 weeks of pregnancy M4 [Pregnancy outcome & details of new-born] 1 2 NA 3
+Madhya Pradesh East Nimar Khandwa 2021-22 April     4.3.2.a Post Abortion/ MTP Complications Identified M4 [Pregnancy outcome & details of new-born] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     4.3.2.b Post Abortion/ MTP Complications Treated M4 [Pregnancy outcome & details of new-born] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     4.3.3 Number of women provided with post abortion/ MTP contraception M4 [Pregnancy outcome & details of new-born] 16 NA NA 16
+Madhya Pradesh East Nimar Khandwa 2021-22 April     4.4.1 Number of newborns weighed at birth M4 [Pregnancy outcome & details of new-born] 646 127 107 666
+Madhya Pradesh East Nimar Khandwa 2021-22 April     4.4.2 Number of newborns having weight less than 2.5 kg M4 [Pregnancy outcome & details of new-born] 126 26 11 141
+Madhya Pradesh East Nimar Khandwa 2021-22 April     4.4.3 Number of Newborns breast fed within 1 hour of birth  M4 [Pregnancy outcome & details of new-born] 628 125 107 646
+Madhya Pradesh East Nimar Khandwa 2021-22 April     5.1 Number of cases of pregnant women with Obstetric Complications attended (Antepartum haemorrhage (APH), Post-Partum Hemorrhage (PPH), Sepsis, Eclampsia and others) M5 [Complicated Pregnancies] 253 NA 7 246
+Madhya Pradesh East Nimar Khandwa 2021-22 April     5.2 Number of Complicated pregnancies treated with Blood Transfusion M5 [Complicated Pregnancies] 15 1 NA 16
+Madhya Pradesh East Nimar Khandwa 2021-22 April     6.1 Women receiving 1st post partum checkups within 48 hours of home delivery M6 [Post Natal Care (PNC)] 1 NA 1 NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     6.2 Women receiving 1st post partum checkup between 48 hours and 14 days M6 [Post Natal Care (PNC)] 7 1 7 1
+Madhya Pradesh East Nimar Khandwa 2021-22 April     6.3 Number of mothers provided full course of 180 IFA tablets after delivery M6 [Post Natal Care (PNC)] 815 27 264 578
+Madhya Pradesh East Nimar Khandwa 2021-22 April     6.4 Number of mothers provided full course of 360 Calcium tablets after delivery M6 [Post Natal Care (PNC)] 817 39 266 590
+Madhya Pradesh East Nimar Khandwa 2021-22 April     7.1.1 New RTI/STI cases identified - Male M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases] 39 NA NA 39
+Madhya Pradesh East Nimar Khandwa 2021-22 April     7.1.2 New RTI/STI cases identified - Female M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases] 422 7 NA 429
+Madhya Pradesh East Nimar Khandwa 2021-22 April     7.2.1 RTI/STI for which treatment initiated - Male M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases] 39 NA NA 39
+Madhya Pradesh East Nimar Khandwa 2021-22 April     7.2.2 RTI/STI for which treatment initiated -Female M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases] 422 7 NA 429
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.1.1 Number of Non Scalpel Vasectomy (NSV) / Conventional Vasectomy conducted M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.2.1 Number of Laparoscopic sterilizations (excluding post abortion) conducted M8 [Family Planning] 13 NA 8 5
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.2.2 Number of Interval Mini-lap (other than post-partum and post abortion) sterilizations conducted M8 [Family Planning] 10 1 2 9
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.2.3 Number of Postpartum sterilizations (within 7 days of delivery by minilap or concurrent with caesarean section) conducted M8 [Family Planning] 54 20 4 70
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.2.4 Number of Post Abortion sterilizations (within 7 days of spontaneous or surgical abortion) conducted M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.3 Number of Interval IUCD Insertions (excluding PPIUCD and PAIUCD) M8 [Family Planning] 17 2 17 2
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.4 Number of Postpartum (within 48 hours of delivery) IUCD insertions M8 [Family Planning] 74 NA 39 35
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.5 Number of Post Abortion (within 12 days of spontaneous or surgical abortion) IUCD insertions M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.6 Number of IUCD Removals M8 [Family Planning] 8 NA 4 4
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.7 Number of complications following IUCD Insertion M8 [Family Planning] 5 NA 5 NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.8 Injectable Contraceptive-Antara Program- First Dose M8 [Family Planning] 16 1 10 7
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.9 Injectable Contraceptive-Antara Program- Second Dose M8 [Family Planning] 18 NA 5 13
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.10 Injectable Contraceptive-Antara Program- Third Dose M8 [Family Planning] 6 NA 2 4
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.11 Injectable Contraceptive-Antara Program- Fourth or more than fourth M8 [Family Planning] 4 NA 2 2
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.12 Number of Combined Oral Pill cycles distributed M8 [Family Planning] 1661 NA 1506 155
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.13 Number of Condom pieces distributed M8 [Family Planning] 15620 NA 14796 824
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.14 Number of Centchroman (weekly) pill strips distributed M8 [Family Planning] 153 NA 69 84
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.15 Number of Emergency Contraceptive Pills (ECP) given M8 [Family Planning] 18 NA 2 16
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.16 Number of Pregnancy Test Kits (PTK) used M8 [Family Planning] 521 NA 462 59
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.17.1 Complications following male sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.17.2 Complications following female sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.17.3 Failures following male sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.17.4 Failures following female sterilization M8 [Family Planning] 2 NA 1 1
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.17.5 Deaths following male sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     8.17.6 Deaths following female sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.1.1 Child immunisation - Vitamin K (Birth Dose) M9 [CHILD IMMUNISATION] 648 81 106 623
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.1.2 Child immunisation - BCG M9 [CHILD IMMUNISATION] 660 59 107 612
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.1.3 Child immunisation - DPT1 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.1.4 Child immunisation - DPT2 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.1.5 Child immunisation - DPT3 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.1.6 Child immunisation - Pentavalent 1 M9 [CHILD IMMUNISATION] 319 22 275 66
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.1.7 Child immunisation - Pentavalent 2 M9 [CHILD IMMUNISATION] 332 21 301 52
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.1.8 Child immunisation - Pentavalent 3 M9 [CHILD IMMUNISATION] 345 20 303 62
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.1.9 Child immunisation - OPV 0 (Birth Dose) M9 [CHILD IMMUNISATION] 659 59 106 612
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.1.10 Child immunisation - OPV1 M9 [CHILD IMMUNISATION] 326 24 282 68
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.1.11 Child immunisation - OPV2 M9 [CHILD IMMUNISATION] 341 23 310 54
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.1.12 Child immunisation - OPV3 M9 [CHILD IMMUNISATION] 349 21 307 63
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.1.13 Child immunisation - Hepatitis-B0 (Birth Dose) M9 [CHILD IMMUNISATION] 571 57 106 522
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.1.14 Child immunisation - Hepatitis-B1 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.1.15 Child immunisation - Hepatitis-B2 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.1.16 Child immunisation - Hepatitis-B3 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.1.17 Child immunisation - Inactivated Injectable Polio Vaccine 1 (IPV 1) M9 [CHILD IMMUNISATION] 328 22 284 66
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.1.18 Child immunisation - Inactivated Injectable Polio Vaccine 2 (IPV 2) M9 [CHILD IMMUNISATION] 358 20 316 62
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.1.19 Child immunisation - Rotavirus 1 M9 [CHILD IMMUNISATION] 327 19 283 63
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.1.20 Child immunisation - Rotavirus 2 M9 [CHILD IMMUNISATION] 344 18 313 49
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.1.21 Child immunisation - Rotavirus 3 M9 [CHILD IMMUNISATION] 349 13 307 55
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.1.22 Child Immunisation- PCV 1 M9 [CHILD IMMUNISATION] 326 NA 282 44
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.1.23 Child Immunisation- PCV 2 M9 [CHILD IMMUNISATION] 351 NA 320 31
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.1.24 Child Immunisation- PCV Booster M9 [CHILD IMMUNISATION] 354 NA 312 42
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.2.1 Child immunisation (9-11months) - Measles & Rubella (MR)/ Measles containing vaccine(MCV) - 1st Dose M9 [CHILD IMMUNISATION] 395 8 357 46
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.2.2 Child immunisation (9-11months) - Measles 1st dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.2.3 Child immunisation (9-11months) - JE 1st dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.2.4.a Children aged between 9 and 11 months fully immunized- Male M9 [CHILD IMMUNISATION] 197 4 180 21
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.2.4.b Children aged between 9 and 11 months fully immunized - Female M9 [CHILD IMMUNISATION] 198 4 177 25
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.3.1 Child immunisation(after 12 months) - Measles & Rubella (MR)/Measles containing vaccine(MCV)- 1st Dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.3.2 Child immunisation (after 12 months) - Measles-1st dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.3.3 Child immunisation (after 12 months) - JE 1st dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.4.1 Child immunisation - Measles & Rubella (MR)- 2nd Dose (16-24 months) M9 [CHILD IMMUNISATION] 335 8 317 26
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.4.2 Child immunisation - Measles 2nd dose (More than 16 months) M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.4.3 Child immunisation - DPT 1st Booster M9 [CHILD IMMUNISATION] 331 10 313 28
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.4.4 Child immunisation - OPV Booster M9 [CHILD IMMUNISATION] 331 10 313 28
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.4.5 Child immunisation - Measles, Mumps, Rubella (MMR) Vaccine M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.4.6 Number of children more than 16 months of age who received Japanese Encephalitis (JE) vaccine M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.5.1 Child immunisation - Typhoid M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.5.2 Children more than 5 years received DPT5 (2nd Booster) M9 [CHILD IMMUNISATION] 319 NA 307 12
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.5.3 Children more than 10 years received TT10/ Td10 M9 [CHILD IMMUNISATION] 284 2 282 4
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.5.4 Children more than 16 years received TT16/ Td16 M9 [CHILD IMMUNISATION] 283 NA 281 2
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.6.1 Number of cases of AEFI - Abscess M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.6.2 Number of cases of AEFI - Death M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.6.3 Number of cases of AEFI - Others M9 [CHILD IMMUNISATION] 6 NA 6 NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.7.1 Immunisation sessions planned M9 [CHILD IMMUNISATION] 296 7 296 7
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.7.2 Immunisation sessions held M9 [CHILD IMMUNISATION] 295 6 295 6
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.7.3 Number of Immunisation sessions where ASHAs were present M9 [CHILD IMMUNISATION] 294 5 294 5
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.8.1 Child immunisation - Vitamin A Dose - 1 M9 [CHILD IMMUNISATION] 389 8 351 46
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.8.2 Child immunisation - Vitamin A Dose - 5 M9 [CHILD IMMUNISATION] 34 6 16 24
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.8.3 Child immunisation - Vitamin A Dose - 9 M9 [CHILD IMMUNISATION] 31 5 13 23
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.9 Number of children (6-59 months) provided 8-10 doses (1ml) of IFA syrup (Bi weekly) M9 [CHILD IMMUNISATION] 14732 NA 14732 NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.10 Number of children (12-59 months) provided Albendazole M9 [CHILD IMMUNISATION] 3 NA NA 3
+Madhya Pradesh East Nimar Khandwa 2021-22 April     9.11 Number of severely underweight children provided Health Checkup (0-5 years) M9 [CHILD IMMUNISATION] 2 NA 2 NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     10.1 Childhood Diseases - Pneumonia M10 [Number of cases of Childhood Diseases (0-5 years)] 12 NA NA 12
+Madhya Pradesh East Nimar Khandwa 2021-22 April     10.2 Childhood Diseases - Asthma M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     10.3 Childhood Diseases - Sepsis M10 [Number of cases of Childhood Diseases (0-5 years)] 14 NA NA 14
+Madhya Pradesh East Nimar Khandwa 2021-22 April     10.4 Childhood Diseases - Diphtheria M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     10.5 Childhood Diseases - Pertussis M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     10.6 Childhood Diseases - Tetanus Neonatorum M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     10.7 Childhood Diseases - Tuberculosis (TB) M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     10.8 Childhood Diseases - Acute Flaccid Paralysis(AFP) M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     10.9 Childhood Diseases - Measles M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     10.10 Childhood Diseases - Malaria M10 [Number of cases of Childhood Diseases (0-5 years)] 1 NA NA 1
+Madhya Pradesh East Nimar Khandwa 2021-22 April     10.11 Childhood Diseases - Diarrhoea M10 [Number of cases of Childhood Diseases (0-5 years)] 105 NA 72 33
+Madhya Pradesh East Nimar Khandwa 2021-22 April     10.12 Childhood Diseases - Diarrhoea treated in Inpatients M10 [Number of cases of Childhood Diseases (0-5 years)] 33 NA NA 33
+Madhya Pradesh East Nimar Khandwa 2021-22 April     10.13 Children admitted with Respiratory Infections M10 [Number of cases of Childhood Diseases (0-5 years)] 2 NA NA 2
+Madhya Pradesh East Nimar Khandwa 2021-22 April     10.14 Childhood Diseases - Severe Acute Malnutrition (SAM) M10 [Number of cases of Childhood Diseases (0-5 years)] 7 NA NA 7
+Madhya Pradesh East Nimar Khandwa 2021-22 April     11.1.1.a Total Blood Smears Examined for Malaria M11 [NVBDCP] 2118 47 1544 621
+Madhya Pradesh East Nimar Khandwa 2021-22 April     11.1.1.b Malaria (Microscopy Tests ) - Plasmodium Vivax test positive M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     11.1.1.c Malaria (Microscopy Tests ) - Plasmodium Falciparum test positive M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     11.1.2.a RDT conducted for Malaria M11 [NVBDCP] 2350 30 2105 275
+Madhya Pradesh East Nimar Khandwa 2021-22 April     11.1.2.b Malaria (RDT) - Plasmodium Vivax test positive M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     11.1.2.c Malaria (RDT) - Plamodium Falciparum test positive M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     11.2.1 Kala Azar (RDT) - Tests Conducted M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     11.2.2 Kala Azar Positive Cases M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     11.2.3 Post-kala-azar dermal leishmaniasis (PKDL) cases M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     11.3.1 Dengue - RDT Test Positive M11 [NVBDCP] NA 5 NA 5
+Madhya Pradesh East Nimar Khandwa 2021-22 April     11.3.2 Dengue - Enzyme- Linked Immuno Sorbent Assay (ELISA) Test Positive M11 [NVBDCP] 20 NA NA 20
+Madhya Pradesh East Nimar Khandwa 2021-22 April     11.4.1 Tests Conducted for JE M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     11.4.2 Tests Positive for JE M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     12.1.1.a Girls registered in AFHC M12 [Adolescent Health] 23 6 NA 29
+Madhya Pradesh East Nimar Khandwa 2021-22 April     12.1.1.b Boys registered in AFHC M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     12.1.2.a Out of registered, Girls received clinical services M12 [Adolescent Health] 103 14 NA 117
+Madhya Pradesh East Nimar Khandwa 2021-22 April     12.1.2.b Out of registered, Boys received clinical services M12 [Adolescent Health] 100 10 NA 110
+Madhya Pradesh East Nimar Khandwa 2021-22 April     12.1.3.a Out of registered, Girls received counselling M12 [Adolescent Health] 103 6 NA 109
+Madhya Pradesh East Nimar Khandwa 2021-22 April     12.1.3.b Out of registered, Boys received counselling M12 [Adolescent Health] 100 NA NA 100
+Madhya Pradesh East Nimar Khandwa 2021-22 April     13.1 Number of on-going DOTS patients registered M13 [Directly Observed Treatment, Short-course (DOTS)] 156 NA 82 74
+Madhya Pradesh East Nimar Khandwa 2021-22 April     13.2 Number of DOTS cases completed successfully M13 [Directly Observed Treatment, Short-course (DOTS)] 77 NA 14 63
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.1.1 Outpatient - Diabetes M14 [Patient Services] 833 6 460 379
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.1.2 Outpatient - Hypertension M14 [Patient Services] 964 10 531 443
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.1.3 Outpatient - Stroke (Paralysis) M14 [Patient Services] 11 NA 9 2
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.1.4 Outpatient - Acute Heart Diseases M14 [Patient Services] 61 NA 15 46
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.1.5 Outpatient - Mental illness M14 [Patient Services] 507 NA 14 493
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.1.6 Outpatient - Epilepsy M14 [Patient Services] 31 NA 1 30
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.1.7 Outpatient - Ophthalmic Related M14 [Patient Services] 1936 NA 188 1748
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.1.8 Outpatient - Dental M14 [Patient Services] 1369 NA 133 1236
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.1.9 Outpatient - Oncology M14 [Patient Services] 15 NA NA 15
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.2.1 Allopathic- Outpatient attendance M14 [Patient Services] 35751 2467 12076 26142
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.2.2 Ayush - Outpatient attendance M14 [Patient Services] 678 NA 270 408
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.3.1.a Inpatient (Male) - Children < 18 years M14 [Patient Services] 328 80 17 391
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.3.1.b Inpatient (Male)- Adults M14 [Patient Services] 436 117 18 535
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.3.2.a Inpatient (Female) - Children < 18 years M14 [Patient Services] 179 105 4 280
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.3.2.b Inpatient (Female)- Adults M14 [Patient Services] 1682 284 185 1781
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.3.3 Number of Left Against Medical Advice (LAMA) cases M14 [Patient Services] 295 6 NA 301
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.4.1 Inpatient - Malaria M14 [Patient Services] 2 NA NA 2
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.4.2 Inpatient - Dengue M14 [Patient Services] 1 NA NA 1
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.4.3 Inpatient - Typhoid M14 [Patient Services] 24 NA NA 24
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.4.4 Inpatient - Asthma, Chronic Obstructive Pulmonary Disease (COPD), Respiratory infections M14 [Patient Services] 367 NA NA 367
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.4.5 Inpatient - Tuberculosis M14 [Patient Services] 8 2 NA 10
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.4.6 Inpatient - Pyrexia of unknown origin (PUO) M14 [Patient Services] 159 5 NA 164
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.4.7 Inpatient - Diarrhea with dehydration M14 [Patient Services] 69 4 2 71
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.4.8 Inpatient - Hepatitis M14 [Patient Services] 1 NA NA 1
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.5 Patients registered at Emergency Department M14 [Patient Services] 610 5 NA 615
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.6.1 Emergency - Trauma ( accident, injury, poisoning etc) M14 [Patient Services] 91 7 NA 98
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.6.2 Emergency - Burn M14 [Patient Services] 4 NA NA 4
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.6.3 Emergency - Obstetrics complications M14 [Patient Services] 246 NA NA 246
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.6.4 Emergency - Snake Bite M14 [Patient Services] 7 NA NA 7
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.6.5 Emergency - Acute Caridiac Emergencies M14 [Patient Services] 28 NA NA 28
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.6.7 Emergency - CVA ( Cerebovascular Disease) M14 [Patient Services] 12 2 NA 14
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.7 Number of deaths occurring at Emergency Department M14 [Patient Services] 19 NA NA 19
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.8.1 Operation major (General and spinal anaesthesia) M14 [Patient Services] 13 139 NA 152
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.8.2 Out of Operation major, Gynecology- Hysterectomy surgeries M14 [Patient Services] 3 38 NA 41
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.8.3 Major Surgeries excluding Obstetrics, Gynaecology and Opthalmology etc. M14 [Patient Services] 10 NA NA 10
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.8.4 Operation minor (No or local anaesthesia) M14 [Patient Services] 109 30 NA 139
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.8.5 Number of post operative Surgical Site infection M14 [Patient Services] 2 NA NA 2
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.8.6 Number of blood units issued M14 [Patient Services] NA 7 NA 7
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.8.7 Number of blood transfusions done M14 [Patient Services] 1 16 NA 17
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.9.1 Inpatient Deaths - Male M14 [Patient Services] 122 NA NA 122
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.9.2 Inpatient Deaths - Female M14 [Patient Services] 88 1 NA 89
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.10 In-Patient Head Count at midnight M14 [Patient Services] 9450 NA 48 9402
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.11 Number of Admission in NBSU ( New Born Stabilisation Unit) M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.12.1 Special Newborn Care Unit (SNCU Admissions) - Inborn Male M14 [Patient Services] 54 NA NA 54
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.12.2 Special Newborn Care Unit (SNCU Admissions) - Inborn Female M14 [Patient Services] 30 NA NA 30
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.12.3 Outborn – Male M14 [Patient Services] 55 NA NA 55
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.12.4 Outborn - Female M14 [Patient Services] 30 NA NA 30
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.12.5 Number of newborns admitted in SNCU - referred by ASHA M14 [Patient Services] 24 NA NA 24
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.13 Number of deaths occurring at SNCU M14 [Patient Services] 25 NA NA 25
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.14.1 Number of children admitted in NRC M14 [Patient Services] 6 NA 1 5
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.14.2 Number of children discharged with target weight gain from the NRCs M14 [Patient Services] 2 NA NA 2
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.15 Number of Rogi Kalyan Samiti (RKS) meetings held M14 [Patient Services] 1 NA NA 1
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.16 Number of Anganwadi centres/ UPHCs reported to have conducted Village Health & Nutrition Day (VHNDs)/ Urban Health & Nutrition Day (UHNDs)/ Outreach / Special Outreach M14 [Patient Services] 202 NA 202 NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.17 Stock out rate of essential Drugs M14 [Patient Services] 20 NA NA 20
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.18 Blood Units Issued on replacement (Any Donors to be considered as replacement donations) M14 [Patient Services] 246 NA NA 246
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.19 Total number of blood units issued in month M14 [Patient Services] 329 NA NA 329
+Madhya Pradesh East Nimar Khandwa 2021-22 April     14.20 Patient Satisfaction Score of the facility in percentage (from Mera Aspatal) M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     15.1 Number of Lab Tests done M15 [Laboratory Testing] 34504 406 4799 30111
+Madhya Pradesh East Nimar Khandwa 2021-22 April     15.2.1 Number of Hb tests conducted M15 [Laboratory Testing] 6405 373 1747 5031
+Madhya Pradesh East Nimar Khandwa 2021-22 April     15.2.2 Out of the total number of Hb tests done, Number having Hb < 7 mg M15 [Laboratory Testing] 94 78 1 171
+Madhya Pradesh East Nimar Khandwa 2021-22 April     15.3.1.a Male HIV - Number Tested (by finger prick test) M15 [Laboratory Testing] 47 25 10 62
+Madhya Pradesh East Nimar Khandwa 2021-22 April     15.3.1.b Male HIV - Number Positive M15 [Laboratory Testing] 3 NA NA 3
+Madhya Pradesh East Nimar Khandwa 2021-22 April     15.3.2.a Female Non ANC HIV - Number Tested (by finger prick test) M15 [Laboratory Testing] 74 78 37 115
+Madhya Pradesh East Nimar Khandwa 2021-22 April     15.3.2.b Female Non ANC HIV - Number Positive M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     15.3.3.a Number of pregnant women screened for HIV (by finger prick test) M15 [Laboratory Testing] 453 136 183 406
+Madhya Pradesh East Nimar Khandwa 2021-22 April     15.3.3.b Out of the above, number screened positive M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     15.3.3.c Out of the above number screened positive, number confirmed with HIV infection at Integrated Counselling and Testing Centre (ICTC) M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     15.3.4.a Number of Male STI/RTI attendees tested for syphilis M15 [Laboratory Testing] 12 2 NA 14
+Madhya Pradesh East Nimar Khandwa 2021-22 April     15.3.4.b Number of Male STI/RTI attendeees found sero Positive for syphilis M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     15.3.4.c Number of Female(Non ANC)STI/RTI attendees tested for syphilis M15 [Laboratory Testing] 106 7 NA 113
+Madhya Pradesh East Nimar Khandwa 2021-22 April     15.3.4.d Number of Female(Non ANC)STI/RTI attendees found sero Positive for syphilis M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa 2021-22 April     15.4.1 Widal tests - Number Tested M15 [Laboratory Testing] 353 52 69 336
+Madhya Pradesh East Nimar Khandwa 2021-22 April     15.4.2 Widal tests - Number Positive M15 [Laboratory Testing] 13 NA 3 10
+Madhya Pradesh East Nimar Khandwa 2021-22 April     15.5.1 Radiology - X-ray M15 [Laboratory Testing] 2899 146 22 3023
+Madhya Pradesh East Nimar Khandwa 2021-22 April     15.5.2 Radiology - Ultrasonography (USG) M15 [Laboratory Testing] 294 NA NA 294
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     1.1 Total number of pregnant women registered for ANC M1 [Ante Natal Care (ANC)] 279 NA NA 279
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     1.1.1 Out of the total ANC registered, number registered within 1st trimester (within 12 weeks) M1 [Ante Natal Care (ANC)] 272 NA NA 272
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     1.2.1 Number of PW given TT1/ Td1 M1 [Ante Natal Care (ANC)] 276 NA NA 276
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     1.2.2 Number of PW given TT2 / Td2 M1 [Ante Natal Care (ANC)] 273 NA NA 273
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     1.2.3 Number of PW given TT Booster/ Td Booster M1 [Ante Natal Care (ANC)] 2 NA NA 2
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     1.2.4 Number of PW provided full Course 180 Iron Folic Acid (IFA) tablets M1 [Ante Natal Care (ANC)] 264 NA NA 264
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     1.2.5 Number of PW provided full Course 360 Calcium tablets M1 [Ante Natal Care (ANC)] 270 NA NA 270
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     1.2.6 Number of PW given one Albendazole tablet after 1st trimester M1 [Ante Natal Care (ANC)] 271 NA NA 271
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     1.2.7 Number of PW received 4 or more ANC check ups M1 [Ante Natal Care (ANC)] 212 NA NA 212
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     1.2.8 Number of PW given ANC Corticosteroids in Pre Term Labour M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     1.3.1 New cases of PW with hypertension detected M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     1.3.1.a Out of the new cases of PW with hypertension detected, cases managed at institution M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     1.4.1 Number of PW tested for Haemoglobin (Hb ) 4 or more than 4 times for respective ANCs M1 [Ante Natal Care (ANC)] 262 NA NA 262
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     1.4.2 Number of PW having Hb level<11 (out of total tested cases)(7.1 to 10.9) M1 [Ante Natal Care (ANC)] 204 NA NA 204
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     1.4.3 Number of PW having Hb level<7 (out of total tested cases) M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     1.6.1.a Number of PW tested using POC test for Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     1.6.1.b Out of above,number of PW found sero positive for Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     2.1.1.a Number of Home Deliveries attended by Skill Birth Attendant(SBA) (Doctor/Nurse/ANM/ Midwife) M2 [Deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     2.1.1.b Number of Home Deliveries attended by Non SBA (Trained Birth Attendant(TBA) /Relatives/etc.) M2 [Deliveries] 1 NA NA 1
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     2.1.2 Number of PW given Tablet Misoprostol during home delivery M2 [Deliveries] 1 NA NA 1
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     2.1.3 Number of newborns received 7 Home Based Newborn Care (HBNC) visits in case of Home delivery M2 [Deliveries] 1 NA NA 1
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     2.2 Number of Institutional Deliveries conducted (Including C-Sections) M2 [Deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     2.2.2 Number of newborns received 6 HBNC  visits after Institutional Delivery M2 [Deliveries] 164 NA NA 164
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     4.1.1.a Live Birth - Male M4 [Pregnancy outcome & details of new-born] 1 NA NA 1
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     4.1.1.b Live Birth - Female M4 [Pregnancy outcome & details of new-born] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     4.1.2 Number of Pre term newborns (< 37 weeks of pregnancy) M4 [Pregnancy outcome & details of new-born] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     4.1.3 Still Birth M4 [Pregnancy outcome & details of new-born] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     4.2 Abortion (spontaneous) M4 [Pregnancy outcome & details of new-born] 1 NA NA 1
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     4.4.1 Number of newborns weighed at birth M4 [Pregnancy outcome & details of new-born] 1 NA NA 1
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     4.4.2 Number of newborns having weight less than 2.5 kg M4 [Pregnancy outcome & details of new-born] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     4.4.3 Number of Newborns breast fed within 1 hour of birth  M4 [Pregnancy outcome & details of new-born] 1 NA NA 1
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     6.1 Women receiving 1st post partum checkups within 48 hours of home delivery M6 [Post Natal Care (PNC)] 1 NA NA 1
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     6.2 Women receiving 1st post partum checkup between 48 hours and 14 days M6 [Post Natal Care (PNC)] 28 NA NA 28
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     6.3 Number of mothers provided full course of 180 IFA tablets after delivery M6 [Post Natal Care (PNC)] 202 NA NA 202
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     6.4 Number of mothers provided full course of 360 Calcium tablets after delivery M6 [Post Natal Care (PNC)] 202 NA NA 202
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     8.12 Number of Combined Oral Pill cycles distributed M8 [Family Planning] 219 NA NA 219
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     8.13 Number of Condom pieces distributed M8 [Family Planning] 1099 NA NA 1099
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     8.14 Number of Centchroman (weekly) pill strips distributed M8 [Family Planning] 36 NA NA 36
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     8.16 Number of Pregnancy Test Kits (PTK) used M8 [Family Planning] 148 NA NA 148
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.1.3 Child immunisation - DPT1 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.1.4 Child immunisation - DPT2 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.1.5 Child immunisation - DPT3 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.1.6 Child immunisation - Pentavalent 1 M9 [CHILD IMMUNISATION] 170 NA NA 170
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.1.7 Child immunisation - Pentavalent 2 M9 [CHILD IMMUNISATION] 188 NA NA 188
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.1.8 Child immunisation - Pentavalent 3 M9 [CHILD IMMUNISATION] 184 NA NA 184
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.1.9 Child immunisation - OPV 0 (Birth Dose) M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.1.10 Child immunisation - OPV1 M9 [CHILD IMMUNISATION] 171 NA NA 171
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.1.11 Child immunisation - OPV2 M9 [CHILD IMMUNISATION] 188 NA NA 188
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.1.12 Child immunisation - OPV3 M9 [CHILD IMMUNISATION] 184 NA NA 184
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.1.17 Child immunisation - Inactivated Injectable Polio Vaccine 1 (IPV 1) M9 [CHILD IMMUNISATION] 191 NA NA 191
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.1.18 Child immunisation - Inactivated Injectable Polio Vaccine 2 (IPV 2) M9 [CHILD IMMUNISATION] 188 NA NA 188
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.1.19 Child immunisation - Rotavirus 1 M9 [CHILD IMMUNISATION] 173 NA NA 173
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.1.20 Child immunisation - Rotavirus 2 M9 [CHILD IMMUNISATION] 188 NA NA 188
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.1.21 Child immunisation - Rotavirus 3 M9 [CHILD IMMUNISATION] 186 NA NA 186
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.1.22 Child Immunisation- PCV 1 M9 [CHILD IMMUNISATION] 158 NA NA 158
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.1.23 Child Immunisation- PCV 2 M9 [CHILD IMMUNISATION] 173 NA NA 173
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.1.24 Child Immunisation- PCV Booster M9 [CHILD IMMUNISATION] 242 NA NA 242
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.2.1 Child immunisation (9-11months) - Measles & Rubella (MR)/ Measles containing vaccine(MCV) - 1st Dose M9 [CHILD IMMUNISATION] 239 NA NA 239
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.2.2 Child immunisation (9-11months) - Measles 1st dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.2.3 Child immunisation (9-11months) - JE 1st dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.2.4.a Children aged between 9 and 11 months fully immunized- Male M9 [CHILD IMMUNISATION] 129 NA NA 129
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.2.4.b Children aged between 9 and 11 months fully immunized - Female M9 [CHILD IMMUNISATION] 116 NA NA 116
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.3.1 Child immunisation(after 12 months) - Measles & Rubella (MR)/Measles containing vaccine(MCV)- 1st Dose M9 [CHILD IMMUNISATION] 6 NA NA 6
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.3.2 Child immunisation (after 12 months) - Measles-1st dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.3.3 Child immunisation (after 12 months) - JE 1st dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.4.1 Child immunisation - Measles & Rubella (MR)- 2nd Dose (16-24 months) M9 [CHILD IMMUNISATION] 174 NA NA 174
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.4.2 Child immunisation - Measles 2nd dose (More than 16 months) M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.4.3 Child immunisation - DPT 1st Booster M9 [CHILD IMMUNISATION] 172 NA NA 172
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.4.4 Child immunisation - OPV Booster M9 [CHILD IMMUNISATION] 172 NA NA 172
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.4.5 Child immunisation - Measles, Mumps, Rubella (MMR) Vaccine M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.5.2 Children more than 5 years received DPT5 (2nd Booster) M9 [CHILD IMMUNISATION] 127 NA NA 127
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.5.3 Children more than 10 years received TT10/ Td10 M9 [CHILD IMMUNISATION] 81 NA NA 81
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.5.4 Children more than 16 years received TT16/ Td16 M9 [CHILD IMMUNISATION] 59 NA NA 59
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.6.1 Number of cases of AEFI - Abscess M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.6.2 Number of cases of AEFI - Death M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.7.1 Immunisation sessions planned M9 [CHILD IMMUNISATION] 136 NA NA 136
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.7.2 Immunisation sessions held M9 [CHILD IMMUNISATION] 81 NA NA 81
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.7.3 Number of Immunisation sessions where ASHAs were present M9 [CHILD IMMUNISATION] 62 NA NA 62
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.8.1 Child immunisation - Vitamin A Dose - 1 M9 [CHILD IMMUNISATION] 237 NA NA 237
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.8.2 Child immunisation - Vitamin A Dose - 5 M9 [CHILD IMMUNISATION] 14 NA NA 14
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.8.3 Child immunisation - Vitamin A Dose - 9 M9 [CHILD IMMUNISATION] 19 NA NA 19
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.9 Number of children (6-59 months) provided 8-10 doses (1ml) of IFA syrup (Bi weekly) M9 [CHILD IMMUNISATION] 12561 NA NA 12561
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     9.10 Number of children (12-59 months) provided Albendazole M9 [CHILD IMMUNISATION] 41 NA NA 41
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     14.2.1 Allopathic- Outpatient attendance M14 [Patient Services] 892 NA NA 892
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     14.2.2 Ayush - Outpatient attendance M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Khandwa Nagar 2021-22 April     14.16 Number of Anganwadi centres/ UPHCs reported to have conducted Village Health & Nutrition Day (VHNDs)/ Urban Health & Nutrition Day (UHNDs)/ Outreach / Special Outreach M14 [Patient Services] 144 NA NA 144
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.1 Total number of pregnant women registered for ANC M1 [Ante Natal Care (ANC)] 596 NA 568 28
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.1.1 Out of the total ANC registered, number registered within 1st trimester (within 12 weeks) M1 [Ante Natal Care (ANC)] 571 NA 543 28
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.2.1 Number of PW given TT1/ Td1 M1 [Ante Natal Care (ANC)] 469 NA 449 20
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.2.2 Number of PW given TT2 / Td2 M1 [Ante Natal Care (ANC)] 440 NA 422 18
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.2.3 Number of PW given TT Booster/ Td Booster M1 [Ante Natal Care (ANC)] 106 NA 102 4
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.2.4 Number of PW provided full Course 180 Iron Folic Acid (IFA) tablets M1 [Ante Natal Care (ANC)] 498 NA 475 23
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.2.5 Number of PW provided full Course 360 Calcium tablets M1 [Ante Natal Care (ANC)] 512 NA 489 23
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.2.6 Number of PW given one Albendazole tablet after 1st trimester M1 [Ante Natal Care (ANC)] 450 NA 430 20
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.2.7 Number of PW received 4 or more ANC check ups M1 [Ante Natal Care (ANC)] 504 NA 481 23
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.2.8 Number of PW given ANC Corticosteroids in Pre Term Labour M1 [Ante Natal Care (ANC)] 1 NA 1 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.3.1 New cases of PW with hypertension detected M1 [Ante Natal Care (ANC)] 1 NA 1 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.3.1.a Out of the new cases of PW with hypertension detected, cases managed at institution M1 [Ante Natal Care (ANC)] 1 NA 1 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.3.2 Number of Eclampsia cases managed during delivery M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.4.1 Number of PW tested for Haemoglobin (Hb ) 4 or more than 4 times for respective ANCs M1 [Ante Natal Care (ANC)] 527 NA 504 23
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.4.2 Number of PW having Hb level<11 (out of total tested cases)(7.1 to 10.9) M1 [Ante Natal Care (ANC)] 402 NA 388 14
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.4.3 Number of PW having Hb level<7 (out of total tested cases) M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.4.4 Number of PW having severe anaemia (Hb < 7) treated M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.5.1 Number of PW tested for Blood Sugar using OGTT(Oral Glucose Tolerance Test) M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.5.2 Number of PW tested positive for GDM M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.5.3 Number of PW given insulin out of total tested positive for GDM M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.6.1.a Number of PW tested using POC test for Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.6.1.b Out of above,number of PW found sero positive for Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.6.2.a Number of pregnant women tested for Syphilis M1 [Ante Natal Care (ANC)] 412 NA 412 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.6.2.b Number of pregnant women tested found sero positive for Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.6.2.c Number of syphilis positive pregnanat women treated for Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.6.2.d Number of babies daignosed with Congenital Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     1.6.2.e Number of babies treated for Congenital Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     2.1.1.a Number of Home Deliveries attended by Skill Birth Attendant(SBA) (Doctor/Nurse/ANM/ Midwife) M2 [Deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     2.1.1.b Number of Home Deliveries attended by Non SBA (Trained Birth Attendant(TBA) /Relatives/etc.) M2 [Deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     2.1.2 Number of PW given Tablet Misoprostol during home delivery M2 [Deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     2.1.3 Number of newborns received 7 Home Based Newborn Care (HBNC) visits in case of Home delivery M2 [Deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     2.2 Number of Institutional Deliveries conducted (Including C-Sections) M2 [Deliveries] 322 NA 322 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     2.2.1 Out of total institutional deliveries number of women discharged within 48 hours of delivery M2 [Deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     2.2.2 Number of newborns received 6 HBNC  visits after Institutional Delivery M2 [Deliveries] 392 NA 371 21
+Madhya Pradesh East Nimar Pandhana 2021-22 April     3.1 Total C -Section deliveries performed M3 [Number of Caesarean (C-Section) deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     3.1.1 C-sections, performed at night (8 PM- 8 AM) M3 [Number of Caesarean (C-Section) deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     4.1.1.a Live Birth - Male M4 [Pregnancy outcome & details of new-born] 168 NA 168 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     4.1.1.b Live Birth - Female M4 [Pregnancy outcome & details of new-born] 150 NA 150 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     4.1.2 Number of Pre term newborns (< 37 weeks of pregnancy) M4 [Pregnancy outcome & details of new-born] 10 NA 10 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     4.1.3 Still Birth M4 [Pregnancy outcome & details of new-born] 4 NA 4 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     4.2 Abortion (spontaneous) M4 [Pregnancy outcome & details of new-born] 6 NA 6 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     4.3.1.a MTP up to 12 weeks of pregnancy M4 [Pregnancy outcome & details of new-born] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     4.3.1.b MTP more than 12 weeks of pregnancy M4 [Pregnancy outcome & details of new-born] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     4.3.2.a Post Abortion/ MTP Complications Identified M4 [Pregnancy outcome & details of new-born] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     4.3.2.b Post Abortion/ MTP Complications Treated M4 [Pregnancy outcome & details of new-born] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     4.3.3 Number of women provided with post abortion/ MTP contraception M4 [Pregnancy outcome & details of new-born] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     4.4.1 Number of newborns weighed at birth M4 [Pregnancy outcome & details of new-born] 318 NA 318 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     4.4.2 Number of newborns having weight less than 2.5 kg M4 [Pregnancy outcome & details of new-born] 27 NA 27 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     4.4.3 Number of Newborns breast fed within 1 hour of birth  M4 [Pregnancy outcome & details of new-born] 318 NA 318 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     5.1 Number of cases of pregnant women with Obstetric Complications attended (Antepartum haemorrhage (APH), Post-Partum Hemorrhage (PPH), Sepsis, Eclampsia and others) M5 [Complicated Pregnancies] 29 NA 29 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     5.2 Number of Complicated pregnancies treated with Blood Transfusion M5 [Complicated Pregnancies] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     6.1 Women receiving 1st post partum checkups within 48 hours of home delivery M6 [Post Natal Care (PNC)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     6.2 Women receiving 1st post partum checkup between 48 hours and 14 days M6 [Post Natal Care (PNC)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     6.3 Number of mothers provided full course of 180 IFA tablets after delivery M6 [Post Natal Care (PNC)] 328 NA 328 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     6.4 Number of mothers provided full course of 360 Calcium tablets after delivery M6 [Post Natal Care (PNC)] 328 NA 328 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     7.1.1 New RTI/STI cases identified - Male M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases] 33 NA 33 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     7.1.2 New RTI/STI cases identified - Female M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases] 67 NA 67 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     7.2.1 RTI/STI for which treatment initiated - Male M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases] 33 NA 33 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     7.2.2 RTI/STI for which treatment initiated -Female M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases] 67 NA 67 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.1.1 Number of Non Scalpel Vasectomy (NSV) / Conventional Vasectomy conducted M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.2.1 Number of Laparoscopic sterilizations (excluding post abortion) conducted M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.2.2 Number of Interval Mini-lap (other than post-partum and post abortion) sterilizations conducted M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.2.3 Number of Postpartum sterilizations (within 7 days of delivery by minilap or concurrent with caesarean section) conducted M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.2.4 Number of Post Abortion sterilizations (within 7 days of spontaneous or surgical abortion) conducted M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.3 Number of Interval IUCD Insertions (excluding PPIUCD and PAIUCD) M8 [Family Planning] 41 NA 41 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.4 Number of Postpartum (within 48 hours of delivery) IUCD insertions M8 [Family Planning] 78 NA 78 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.5 Number of Post Abortion (within 12 days of spontaneous or surgical abortion) IUCD insertions M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.6 Number of IUCD Removals M8 [Family Planning] 58 NA 58 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.7 Number of complications following IUCD Insertion M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.8 Injectable Contraceptive-Antara Program- First Dose M8 [Family Planning] 26 NA 26 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.9 Injectable Contraceptive-Antara Program- Second Dose M8 [Family Planning] 20 NA 20 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.10 Injectable Contraceptive-Antara Program- Third Dose M8 [Family Planning] 9 NA 9 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.11 Injectable Contraceptive-Antara Program- Fourth or more than fourth M8 [Family Planning] 4 NA 4 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.12 Number of Combined Oral Pill cycles distributed M8 [Family Planning] 1959 NA 1799 160
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.13 Number of Condom pieces distributed M8 [Family Planning] 5339 NA 5169 170
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.14 Number of Centchroman (weekly) pill strips distributed M8 [Family Planning] 85 NA 85 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.15 Number of Emergency Contraceptive Pills (ECP) given M8 [Family Planning] 8 NA 8 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.16 Number of Pregnancy Test Kits (PTK) used M8 [Family Planning] 1005 NA 977 28
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.17.1 Complications following male sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.17.2 Complications following female sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.17.3 Failures following male sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.17.4 Failures following female sterilization M8 [Family Planning] 1 NA 1 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.17.5 Deaths following male sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     8.17.6 Deaths following female sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.1.1 Child immunisation - Vitamin K (Birth Dose) M9 [CHILD IMMUNISATION] 318 NA 318 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.1.2 Child immunisation - BCG M9 [CHILD IMMUNISATION] 318 NA 318 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.1.3 Child immunisation - DPT1 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.1.4 Child immunisation - DPT2 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.1.5 Child immunisation - DPT3 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.1.6 Child immunisation - Pentavalent 1 M9 [CHILD IMMUNISATION] 420 NA 397 23
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.1.7 Child immunisation - Pentavalent 2 M9 [CHILD IMMUNISATION] 434 NA 413 21
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.1.8 Child immunisation - Pentavalent 3 M9 [CHILD IMMUNISATION] 443 NA 424 19
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.1.9 Child immunisation - OPV 0 (Birth Dose) M9 [CHILD IMMUNISATION] 318 NA 318 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.1.10 Child immunisation - OPV1 M9 [CHILD IMMUNISATION] 420 NA 397 23
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.1.11 Child immunisation - OPV2 M9 [CHILD IMMUNISATION] 434 NA 413 21
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.1.12 Child immunisation - OPV3 M9 [CHILD IMMUNISATION] 443 NA 424 19
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.1.13 Child immunisation - Hepatitis-B0 (Birth Dose) M9 [CHILD IMMUNISATION] 318 NA 318 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.1.14 Child immunisation - Hepatitis-B1 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.1.15 Child immunisation - Hepatitis-B2 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.1.16 Child immunisation - Hepatitis-B3 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.1.17 Child immunisation - Inactivated Injectable Polio Vaccine 1 (IPV 1) M9 [CHILD IMMUNISATION] 420 NA 397 23
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.1.18 Child immunisation - Inactivated Injectable Polio Vaccine 2 (IPV 2) M9 [CHILD IMMUNISATION] 443 NA 424 19
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.1.19 Child immunisation - Rotavirus 1 M9 [CHILD IMMUNISATION] 420 NA 397 23
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.1.20 Child immunisation - Rotavirus 2 M9 [CHILD IMMUNISATION] 434 NA 413 21
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.1.21 Child immunisation - Rotavirus 3 M9 [CHILD IMMUNISATION] 443 NA 424 19
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.1.22 Child Immunisation- PCV 1 M9 [CHILD IMMUNISATION] 420 NA 397 23
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.1.23 Child Immunisation- PCV 2 M9 [CHILD IMMUNISATION] 454 NA 435 19
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.1.24 Child Immunisation- PCV Booster M9 [CHILD IMMUNISATION] 409 NA 391 18
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.2.1 Child immunisation (9-11months) - Measles & Rubella (MR)/ Measles containing vaccine(MCV) - 1st Dose M9 [CHILD IMMUNISATION] 423 NA 405 18
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.2.2 Child immunisation (9-11months) - Measles 1st dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.2.3 Child immunisation (9-11months) - JE 1st dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.2.4.a Children aged between 9 and 11 months fully immunized- Male M9 [CHILD IMMUNISATION] 218 NA 208 10
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.2.4.b Children aged between 9 and 11 months fully immunized - Female M9 [CHILD IMMUNISATION] 205 NA 197 8
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.3.1 Child immunisation(after 12 months) - Measles & Rubella (MR)/Measles containing vaccine(MCV)- 1st Dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.3.2 Child immunisation (after 12 months) - Measles-1st dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.3.3 Child immunisation (after 12 months) - JE 1st dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.4.1 Child immunisation - Measles & Rubella (MR)- 2nd Dose (16-24 months) M9 [CHILD IMMUNISATION] 384 NA 372 12
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.4.2 Child immunisation - Measles 2nd dose (More than 16 months) M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.4.3 Child immunisation - DPT 1st Booster M9 [CHILD IMMUNISATION] 384 NA 372 12
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.4.4 Child immunisation - OPV Booster M9 [CHILD IMMUNISATION] 384 NA 372 12
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.4.5 Child immunisation - Measles, Mumps, Rubella (MMR) Vaccine M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.4.6 Number of children more than 16 months of age who received Japanese Encephalitis (JE) vaccine M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.5.1 Child immunisation - Typhoid M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.5.2 Children more than 5 years received DPT5 (2nd Booster) M9 [CHILD IMMUNISATION] 467 NA 453 14
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.5.3 Children more than 10 years received TT10/ Td10 M9 [CHILD IMMUNISATION] 347 NA 333 14
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.5.4 Children more than 16 years received TT16/ Td16 M9 [CHILD IMMUNISATION] 345 NA 333 12
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.6.1 Number of cases of AEFI - Abscess M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.6.2 Number of cases of AEFI - Death M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.6.3 Number of cases of AEFI - Others M9 [CHILD IMMUNISATION] 9 NA 9 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.7.1 Immunisation sessions planned M9 [CHILD IMMUNISATION] 357 NA 333 24
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.7.2 Immunisation sessions held M9 [CHILD IMMUNISATION] 347 NA 323 24
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.7.3 Number of Immunisation sessions where ASHAs were present M9 [CHILD IMMUNISATION] 324 NA 322 2
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.8.1 Child immunisation - Vitamin A Dose - 1 M9 [CHILD IMMUNISATION] 423 NA 405 18
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.8.2 Child immunisation - Vitamin A Dose - 5 M9 [CHILD IMMUNISATION] 20 NA 20 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.8.3 Child immunisation - Vitamin A Dose - 9 M9 [CHILD IMMUNISATION] 33 NA 33 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.9 Number of children (6-59 months) provided 8-10 doses (1ml) of IFA syrup (Bi weekly) M9 [CHILD IMMUNISATION] 23931 NA 22806 1125
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.10 Number of children (12-59 months) provided Albendazole M9 [CHILD IMMUNISATION] 5 NA 5 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     9.11 Number of severely underweight children provided Health Checkup (0-5 years) M9 [CHILD IMMUNISATION] 29 NA 29 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     10.1 Childhood Diseases - Pneumonia M10 [Number of cases of Childhood Diseases (0-5 years)] 2 NA 2 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     10.2 Childhood Diseases - Asthma M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     10.3 Childhood Diseases - Sepsis M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     10.4 Childhood Diseases - Diphtheria M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     10.5 Childhood Diseases - Pertussis M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     10.6 Childhood Diseases - Tetanus Neonatorum M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     10.7 Childhood Diseases - Tuberculosis (TB) M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     10.8 Childhood Diseases - Acute Flaccid Paralysis(AFP) M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     10.9 Childhood Diseases - Measles M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     10.10 Childhood Diseases - Malaria M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     10.11 Childhood Diseases - Diarrhoea M10 [Number of cases of Childhood Diseases (0-5 years)] 38 NA 38 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     10.12 Childhood Diseases - Diarrhoea treated in Inpatients M10 [Number of cases of Childhood Diseases (0-5 years)] 3 NA 3 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     10.13 Children admitted with Respiratory Infections M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     10.14 Childhood Diseases - Severe Acute Malnutrition (SAM) M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     11.1.1.a Total Blood Smears Examined for Malaria M11 [NVBDCP] 1170 NA 1170 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     11.1.1.b Malaria (Microscopy Tests ) - Plasmodium Vivax test positive M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     11.1.1.c Malaria (Microscopy Tests ) - Plasmodium Falciparum test positive M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     11.1.2.a RDT conducted for Malaria M11 [NVBDCP] 1965 NA 1903 62
+Madhya Pradesh East Nimar Pandhana 2021-22 April     11.1.2.b Malaria (RDT) - Plasmodium Vivax test positive M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     11.1.2.c Malaria (RDT) - Plamodium Falciparum test positive M11 [NVBDCP] 1 NA 1 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     11.2.1 Kala Azar (RDT) - Tests Conducted M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     11.2.2 Kala Azar Positive Cases M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     11.2.3 Post-kala-azar dermal leishmaniasis (PKDL) cases M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     11.3.1 Dengue - RDT Test Positive M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     12.1.1.a Girls registered in AFHC M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     12.1.1.b Boys registered in AFHC M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     12.1.2.a Out of registered, Girls received clinical services M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     12.1.2.b Out of registered, Boys received clinical services M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     12.1.3.a Out of registered, Girls received counselling M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     12.1.3.b Out of registered, Boys received counselling M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     13.1 Number of on-going DOTS patients registered M13 [Directly Observed Treatment, Short-course (DOTS)] 42 NA 42 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     13.2 Number of DOTS cases completed successfully M13 [Directly Observed Treatment, Short-course (DOTS)] 11 NA 11 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.1.1 Outpatient - Diabetes M14 [Patient Services] 391 NA 391 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.1.2 Outpatient - Hypertension M14 [Patient Services] 443 NA 443 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.1.3 Outpatient - Stroke (Paralysis) M14 [Patient Services] 1 NA 1 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.1.4 Outpatient - Acute Heart Diseases M14 [Patient Services] 2 NA 2 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.1.5 Outpatient - Mental illness M14 [Patient Services] 3 NA 3 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.1.6 Outpatient - Epilepsy M14 [Patient Services] 1 NA 1 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.1.7 Outpatient - Ophthalmic Related M14 [Patient Services] 499 NA 499 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.1.8 Outpatient - Dental M14 [Patient Services] 234 NA 234 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.1.9 Outpatient - Oncology M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.2.1 Allopathic- Outpatient attendance M14 [Patient Services] 16063 NA 15478 585
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.2.2 Ayush - Outpatient attendance M14 [Patient Services] 179 NA 179 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.3.1.a Inpatient (Male) - Children < 18 years M14 [Patient Services] 248 NA 248 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.3.1.b Inpatient (Male)- Adults M14 [Patient Services] 104 NA 104 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.3.2.a Inpatient (Female) - Children < 18 years M14 [Patient Services] 98 NA 98 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.3.2.b Inpatient (Female)- Adults M14 [Patient Services] 621 NA 621 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.3.3 Number of Left Against Medical Advice (LAMA) cases M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.4.1 Inpatient - Malaria M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.4.2 Inpatient - Dengue M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.4.3 Inpatient - Typhoid M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.4.4 Inpatient - Asthma, Chronic Obstructive Pulmonary Disease (COPD), Respiratory infections M14 [Patient Services] 14 NA 14 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.4.5 Inpatient - Tuberculosis M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.4.6 Inpatient - Pyrexia of unknown origin (PUO) M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.4.7 Inpatient - Diarrhea with dehydration M14 [Patient Services] 25 NA 25 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.4.8 Inpatient - Hepatitis M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.5 Patients registered at Emergency Department M14 [Patient Services] 26 NA 26 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.6.1 Emergency - Trauma ( accident, injury, poisoning etc) M14 [Patient Services] 19 NA 19 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.6.2 Emergency - Burn M14 [Patient Services] 2 NA 2 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.6.3 Emergency - Obstetrics complications M14 [Patient Services] 7 NA 7 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.6.4 Emergency - Snake Bite M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.6.5 Emergency - Acute Caridiac Emergencies M14 [Patient Services] 5 NA 5 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.6.7 Emergency - CVA ( Cerebovascular Disease) M14 [Patient Services] 1 NA 1 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.7 Number of deaths occurring at Emergency Department M14 [Patient Services] 4 NA 4 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.8.1 Operation major (General and spinal anaesthesia) M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.8.2 Out of Operation major, Gynecology- Hysterectomy surgeries M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.8.4 Operation minor (No or local anaesthesia) M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.8.6 Number of blood units issued M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.8.7 Number of blood transfusions done M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.9.1 Inpatient Deaths - Male M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.9.2 Inpatient Deaths - Female M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.10 In-Patient Head Count at midnight M14 [Patient Services] 496 NA 496 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.11 Number of Admission in NBSU ( New Born Stabilisation Unit) M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.12.1 Special Newborn Care Unit (SNCU Admissions) - Inborn Male M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.12.2 Special Newborn Care Unit (SNCU Admissions) - Inborn Female M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.12.3 Outborn – Male M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.12.4 Outborn - Female M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.12.5 Number of newborns admitted in SNCU - referred by ASHA M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.13 Number of deaths occurring at SNCU M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.14.1 Number of children admitted in NRC M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.14.2 Number of children discharged with target weight gain from the NRCs M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.15 Number of Rogi Kalyan Samiti (RKS) meetings held M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     14.16 Number of Anganwadi centres/ UPHCs reported to have conducted Village Health & Nutrition Day (VHNDs)/ Urban Health & Nutrition Day (UHNDs)/ Outreach / Special Outreach M14 [Patient Services] 249 NA 243 6
+Madhya Pradesh East Nimar Pandhana 2021-22 April     15.1 Number of Lab Tests done M15 [Laboratory Testing] 2156 NA 2156 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     15.2.1 Number of Hb tests conducted M15 [Laboratory Testing] 1877 NA 1738 139
+Madhya Pradesh East Nimar Pandhana 2021-22 April     15.2.2 Out of the total number of Hb tests done, Number having Hb < 7 mg M15 [Laboratory Testing] 7 NA 7 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     15.3.1.a Male HIV - Number Tested (by finger prick test) M15 [Laboratory Testing] 45 NA 45 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     15.3.1.b Male HIV - Number Positive M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     15.3.2.a Female Non ANC HIV - Number Tested (by finger prick test) M15 [Laboratory Testing] 7 NA 7 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     15.3.2.b Female Non ANC HIV - Number Positive M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     15.3.3.a Number of pregnant women screened for HIV (by finger prick test) M15 [Laboratory Testing] 350 NA 350 NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     15.3.3.b Out of the above, number screened positive M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     15.3.3.c Out of the above number screened positive, number confirmed with HIV infection at Integrated Counselling and Testing Centre (ICTC) M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     15.3.4.a Number of Male STI/RTI attendees tested for syphilis M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     15.3.4.b Number of Male STI/RTI attendeees found sero Positive for syphilis M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     15.3.4.c Number of Female(Non ANC)STI/RTI attendees tested for syphilis M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     15.3.4.d Number of Female(Non ANC)STI/RTI attendees found sero Positive for syphilis M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     15.4.1 Widal tests - Number Tested M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     15.4.2 Widal tests - Number Positive M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Pandhana 2021-22 April     15.5.1 Radiology - X-ray M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.1 Total number of pregnant women registered for ANC M1 [Ante Natal Care (ANC)] 466 NA 466 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.1.1 Out of the total ANC registered, number registered within 1st trimester (within 12 weeks) M1 [Ante Natal Care (ANC)] 460 NA 460 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.2.1 Number of PW given TT1/ Td1 M1 [Ante Natal Care (ANC)] 390 NA 390 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.2.2 Number of PW given TT2 / Td2 M1 [Ante Natal Care (ANC)] 357 NA 357 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.2.3 Number of PW given TT Booster/ Td Booster M1 [Ante Natal Care (ANC)] 69 NA 69 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.2.4 Number of PW provided full Course 180 Iron Folic Acid (IFA) tablets M1 [Ante Natal Care (ANC)] 363 NA 363 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.2.5 Number of PW provided full Course 360 Calcium tablets M1 [Ante Natal Care (ANC)] 354 NA 354 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.2.6 Number of PW given one Albendazole tablet after 1st trimester M1 [Ante Natal Care (ANC)] 359 NA 359 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.2.7 Number of PW received 4 or more ANC check ups M1 [Ante Natal Care (ANC)] 278 NA 278 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.2.8 Number of PW given ANC Corticosteroids in Pre Term Labour M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.3.1 New cases of PW with hypertension detected M1 [Ante Natal Care (ANC)] 1 NA 1 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.3.1.a Out of the new cases of PW with hypertension detected, cases managed at institution M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.3.2 Number of Eclampsia cases managed during delivery M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.4.1 Number of PW tested for Haemoglobin (Hb ) 4 or more than 4 times for respective ANCs M1 [Ante Natal Care (ANC)] 344 NA 311 33
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.4.2 Number of PW having Hb level<11 (out of total tested cases)(7.1 to 10.9) M1 [Ante Natal Care (ANC)] 450 NA 370 80
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.4.3 Number of PW having Hb level<7 (out of total tested cases) M1 [Ante Natal Care (ANC)] 14 NA 14 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.4.4 Number of PW having severe anaemia (Hb < 7) treated M1 [Ante Natal Care (ANC)] 14 NA 14 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.5.1 Number of PW tested for Blood Sugar using OGTT(Oral Glucose Tolerance Test) M1 [Ante Natal Care (ANC)] 30 NA NA 30
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.5.2 Number of PW tested positive for GDM M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.5.3 Number of PW given insulin out of total tested positive for GDM M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.6.1.a Number of PW tested using POC test for Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.6.1.b Out of above,number of PW found sero positive for Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.6.2.a Number of pregnant women tested for Syphilis M1 [Ante Natal Care (ANC)] 80 NA 48 32
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.6.2.b Number of pregnant women tested found sero positive for Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.6.2.c Number of syphilis positive pregnanat women treated for Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.6.2.d Number of babies daignosed with Congenital Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     1.6.2.e Number of babies treated for Congenital Syphilis M1 [Ante Natal Care (ANC)] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     2.1.1.a Number of Home Deliveries attended by Skill Birth Attendant(SBA) (Doctor/Nurse/ANM/ Midwife) M2 [Deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     2.1.1.b Number of Home Deliveries attended by Non SBA (Trained Birth Attendant(TBA) /Relatives/etc.) M2 [Deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     2.1.2 Number of PW given Tablet Misoprostol during home delivery M2 [Deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     2.1.3 Number of newborns received 7 Home Based Newborn Care (HBNC) visits in case of Home delivery M2 [Deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     2.2 Number of Institutional Deliveries conducted (Including C-Sections) M2 [Deliveries] 209 NA 187 22
+Madhya Pradesh East Nimar Punasa 2021-22 April     2.2.1 Out of total institutional deliveries number of women discharged within 48 hours of delivery M2 [Deliveries] 4 NA 4 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     2.2.2 Number of newborns received 6 HBNC  visits after Institutional Delivery M2 [Deliveries] 321 NA 321 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     3.1 Total C -Section deliveries performed M3 [Number of Caesarean (C-Section) deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     3.1.1 C-sections, performed at night (8 PM- 8 AM) M3 [Number of Caesarean (C-Section) deliveries] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     4.1.1.a Live Birth - Male M4 [Pregnancy outcome & details of new-born] 123 NA 111 12
+Madhya Pradesh East Nimar Punasa 2021-22 April     4.1.1.b Live Birth - Female M4 [Pregnancy outcome & details of new-born] 83 NA 73 10
+Madhya Pradesh East Nimar Punasa 2021-22 April     4.1.2 Number of Pre term newborns (< 37 weeks of pregnancy) M4 [Pregnancy outcome & details of new-born] 52 NA 52 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     4.1.3 Still Birth M4 [Pregnancy outcome & details of new-born] 3 NA 3 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     4.2 Abortion (spontaneous) M4 [Pregnancy outcome & details of new-born] 2 NA 2 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     4.3.1.a MTP up to 12 weeks of pregnancy M4 [Pregnancy outcome & details of new-born] 4 NA 4 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     4.3.1.b MTP more than 12 weeks of pregnancy M4 [Pregnancy outcome & details of new-born] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     4.3.2.a Post Abortion/ MTP Complications Identified M4 [Pregnancy outcome & details of new-born] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     4.3.2.b Post Abortion/ MTP Complications Treated M4 [Pregnancy outcome & details of new-born] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     4.3.3 Number of women provided with post abortion/ MTP contraception M4 [Pregnancy outcome & details of new-born] 4 NA 4 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     4.4.1 Number of newborns weighed at birth M4 [Pregnancy outcome & details of new-born] 206 NA 184 22
+Madhya Pradesh East Nimar Punasa 2021-22 April     4.4.2 Number of newborns having weight less than 2.5 kg M4 [Pregnancy outcome & details of new-born] 16 NA 14 2
+Madhya Pradesh East Nimar Punasa 2021-22 April     4.4.3 Number of Newborns breast fed within 1 hour of birth  M4 [Pregnancy outcome & details of new-born] 206 NA 184 22
+Madhya Pradesh East Nimar Punasa 2021-22 April     5.1 Number of cases of pregnant women with Obstetric Complications attended (Antepartum haemorrhage (APH), Post-Partum Hemorrhage (PPH), Sepsis, Eclampsia and others) M5 [Complicated Pregnancies] 6 NA 6 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     5.2 Number of Complicated pregnancies treated with Blood Transfusion M5 [Complicated Pregnancies] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     6.1 Women receiving 1st post partum checkups within 48 hours of home delivery M6 [Post Natal Care (PNC)] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     6.2 Women receiving 1st post partum checkup between 48 hours and 14 days M6 [Post Natal Care (PNC)] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     6.3 Number of mothers provided full course of 180 IFA tablets after delivery M6 [Post Natal Care (PNC)] 270 NA 248 22
+Madhya Pradesh East Nimar Punasa 2021-22 April     6.4 Number of mothers provided full course of 360 Calcium tablets after delivery M6 [Post Natal Care (PNC)] 181 NA 159 22
+Madhya Pradesh East Nimar Punasa 2021-22 April     7.1.1 New RTI/STI cases identified - Male M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     7.1.2 New RTI/STI cases identified - Female M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     7.2.1 RTI/STI for which treatment initiated - Male M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     7.2.2 RTI/STI for which treatment initiated -Female M7 [Reproductive Tract Infections/Sexually Transmitted Infections (RTI/STI) Cases] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.1.1 Number of Non Scalpel Vasectomy (NSV) / Conventional Vasectomy conducted M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.2.1 Number of Laparoscopic sterilizations (excluding post abortion) conducted M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.2.2 Number of Interval Mini-lap (other than post-partum and post abortion) sterilizations conducted M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.2.3 Number of Postpartum sterilizations (within 7 days of delivery by minilap or concurrent with caesarean section) conducted M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.2.4 Number of Post Abortion sterilizations (within 7 days of spontaneous or surgical abortion) conducted M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.3 Number of Interval IUCD Insertions (excluding PPIUCD and PAIUCD) M8 [Family Planning] 28 NA 28 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.4 Number of Postpartum (within 48 hours of delivery) IUCD insertions M8 [Family Planning] 21 NA 21 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.5 Number of Post Abortion (within 12 days of spontaneous or surgical abortion) IUCD insertions M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.6 Number of IUCD Removals M8 [Family Planning] 22 NA 22 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.7 Number of complications following IUCD Insertion M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.8 Injectable Contraceptive-Antara Program- First Dose M8 [Family Planning] 15 NA 9 6
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.9 Injectable Contraceptive-Antara Program- Second Dose M8 [Family Planning] 3 NA 3 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.10 Injectable Contraceptive-Antara Program- Third Dose M8 [Family Planning] 4 NA 2 2
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.11 Injectable Contraceptive-Antara Program- Fourth or more than fourth M8 [Family Planning] 4 NA 1 3
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.12 Number of Combined Oral Pill cycles distributed M8 [Family Planning] 939 NA 937 2
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.13 Number of Condom pieces distributed M8 [Family Planning] 6024 NA 6022 2
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.14 Number of Centchroman (weekly) pill strips distributed M8 [Family Planning] 123 NA 123 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.15 Number of Emergency Contraceptive Pills (ECP) given M8 [Family Planning] 7 NA 7 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.16 Number of Pregnancy Test Kits (PTK) used M8 [Family Planning] 694 NA 629 65
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.17.1 Complications following male sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.17.2 Complications following female sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.17.3 Failures following male sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.17.4 Failures following female sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.17.5 Deaths following male sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     8.17.6 Deaths following female sterilization M8 [Family Planning] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.1.1 Child immunisation - Vitamin K (Birth Dose) M9 [CHILD IMMUNISATION] 206 NA 184 22
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.1.2 Child immunisation - BCG M9 [CHILD IMMUNISATION] 199 NA 176 23
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.1.3 Child immunisation - DPT1 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.1.4 Child immunisation - DPT2 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.1.5 Child immunisation - DPT3 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.1.6 Child immunisation - Pentavalent 1 M9 [CHILD IMMUNISATION] 308 NA 308 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.1.7 Child immunisation - Pentavalent 2 M9 [CHILD IMMUNISATION] 317 NA 317 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.1.8 Child immunisation - Pentavalent 3 M9 [CHILD IMMUNISATION] 350 NA 350 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.1.9 Child immunisation - OPV 0 (Birth Dose) M9 [CHILD IMMUNISATION] 222 NA 200 22
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.1.10 Child immunisation - OPV1 M9 [CHILD IMMUNISATION] 308 NA 308 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.1.11 Child immunisation - OPV2 M9 [CHILD IMMUNISATION] 317 NA 317 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.1.12 Child immunisation - OPV3 M9 [CHILD IMMUNISATION] 349 NA 349 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.1.13 Child immunisation - Hepatitis-B0 (Birth Dose) M9 [CHILD IMMUNISATION] 205 NA 183 22
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.1.14 Child immunisation - Hepatitis-B1 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.1.15 Child immunisation - Hepatitis-B2 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.1.16 Child immunisation - Hepatitis-B3 M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.1.17 Child immunisation - Inactivated Injectable Polio Vaccine 1 (IPV 1) M9 [CHILD IMMUNISATION] 317 NA 317 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.1.18 Child immunisation - Inactivated Injectable Polio Vaccine 2 (IPV 2) M9 [CHILD IMMUNISATION] 341 NA 341 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.1.19 Child immunisation - Rotavirus 1 M9 [CHILD IMMUNISATION] 317 NA 317 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.1.20 Child immunisation - Rotavirus 2 M9 [CHILD IMMUNISATION] 314 NA 314 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.1.21 Child immunisation - Rotavirus 3 M9 [CHILD IMMUNISATION] 350 NA 350 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.1.22 Child Immunisation- PCV 1 M9 [CHILD IMMUNISATION] 309 NA 309 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.1.23 Child Immunisation- PCV 2 M9 [CHILD IMMUNISATION] 341 NA 341 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.1.24 Child Immunisation- PCV Booster M9 [CHILD IMMUNISATION] 330 NA 330 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.2.1 Child immunisation (9-11months) - Measles & Rubella (MR)/ Measles containing vaccine(MCV) - 1st Dose M9 [CHILD IMMUNISATION] 329 NA 329 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.2.2 Child immunisation (9-11months) - Measles 1st dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.2.3 Child immunisation (9-11months) - JE 1st dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.2.4.a Children aged between 9 and 11 months fully immunized- Male M9 [CHILD IMMUNISATION] 172 NA 172 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.2.4.b Children aged between 9 and 11 months fully immunized - Female M9 [CHILD IMMUNISATION] 157 NA 157 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.3.1 Child immunisation(after 12 months) - Measles & Rubella (MR)/Measles containing vaccine(MCV)- 1st Dose M9 [CHILD IMMUNISATION] 10 NA 10 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.3.2 Child immunisation (after 12 months) - Measles-1st dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.3.3 Child immunisation (after 12 months) - JE 1st dose M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.4.1 Child immunisation - Measles & Rubella (MR)- 2nd Dose (16-24 months) M9 [CHILD IMMUNISATION] 334 NA 334 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.4.2 Child immunisation - Measles 2nd dose (More than 16 months) M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.4.3 Child immunisation - DPT 1st Booster M9 [CHILD IMMUNISATION] 334 NA 334 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.4.4 Child immunisation - OPV Booster M9 [CHILD IMMUNISATION] 328 NA 328 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.4.5 Child immunisation - Measles, Mumps, Rubella (MMR) Vaccine M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.4.6 Number of children more than 16 months of age who received Japanese Encephalitis (JE) vaccine M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.5.1 Child immunisation - Typhoid M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.5.2 Children more than 5 years received DPT5 (2nd Booster) M9 [CHILD IMMUNISATION] 267 NA 267 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.5.3 Children more than 10 years received TT10/ Td10 M9 [CHILD IMMUNISATION] 220 NA 220 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.5.4 Children more than 16 years received TT16/ Td16 M9 [CHILD IMMUNISATION] 201 NA 201 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.6.1 Number of cases of AEFI - Abscess M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.6.2 Number of cases of AEFI - Death M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.6.3 Number of cases of AEFI - Others M9 [CHILD IMMUNISATION] 23 NA 23 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.7.1 Immunisation sessions planned M9 [CHILD IMMUNISATION] 271 NA 271 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.7.2 Immunisation sessions held M9 [CHILD IMMUNISATION] 264 NA 264 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.7.3 Number of Immunisation sessions where ASHAs were present M9 [CHILD IMMUNISATION] 262 NA 262 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.8.1 Child immunisation - Vitamin A Dose - 1 M9 [CHILD IMMUNISATION] 329 NA 329 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.8.2 Child immunisation - Vitamin A Dose - 5 M9 [CHILD IMMUNISATION] 979 NA 979 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.8.3 Child immunisation - Vitamin A Dose - 9 M9 [CHILD IMMUNISATION] 271 NA 271 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.9 Number of children (6-59 months) provided 8-10 doses (1ml) of IFA syrup (Bi weekly) M9 [CHILD IMMUNISATION] 14607 NA 14607 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.10 Number of children (12-59 months) provided Albendazole M9 [CHILD IMMUNISATION] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     9.11 Number of severely underweight children provided Health Checkup (0-5 years) M9 [CHILD IMMUNISATION] 370 NA 370 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     10.1 Childhood Diseases - Pneumonia M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     10.2 Childhood Diseases - Asthma M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     10.3 Childhood Diseases - Sepsis M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     10.4 Childhood Diseases - Diphtheria M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     10.5 Childhood Diseases - Pertussis M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     10.6 Childhood Diseases - Tetanus Neonatorum M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     10.7 Childhood Diseases - Tuberculosis (TB) M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     10.8 Childhood Diseases - Acute Flaccid Paralysis(AFP) M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     10.9 Childhood Diseases - Measles M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     10.10 Childhood Diseases - Malaria M10 [Number of cases of Childhood Diseases (0-5 years)] 3 NA NA 3
+Madhya Pradesh East Nimar Punasa 2021-22 April     10.11 Childhood Diseases - Diarrhoea M10 [Number of cases of Childhood Diseases (0-5 years)] 29 NA 29 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     10.12 Childhood Diseases - Diarrhoea treated in Inpatients M10 [Number of cases of Childhood Diseases (0-5 years)] 3 NA 3 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     10.13 Children admitted with Respiratory Infections M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     10.14 Childhood Diseases - Severe Acute Malnutrition (SAM) M10 [Number of cases of Childhood Diseases (0-5 years)] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     11.1.1.a Total Blood Smears Examined for Malaria M11 [NVBDCP] 114 NA 84 30
+Madhya Pradesh East Nimar Punasa 2021-22 April     11.1.1.b Malaria (Microscopy Tests ) - Plasmodium Vivax test positive M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     11.1.1.c Malaria (Microscopy Tests ) - Plasmodium Falciparum test positive M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     11.1.2.a RDT conducted for Malaria M11 [NVBDCP] 1377 NA 1377 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     11.1.2.b Malaria (RDT) - Plasmodium Vivax test positive M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     11.1.2.c Malaria (RDT) - Plamodium Falciparum test positive M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     11.2.1 Kala Azar (RDT) - Tests Conducted M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     11.2.2 Kala Azar Positive Cases M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     11.2.3 Post-kala-azar dermal leishmaniasis (PKDL) cases M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     11.3.1 Dengue - RDT Test Positive M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     11.3.2 Dengue - Enzyme- Linked Immuno Sorbent Assay (ELISA) Test Positive M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     11.4.1 Tests Conducted for JE M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     11.4.2 Tests Positive for JE M11 [NVBDCP] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     12.1.1.a Girls registered in AFHC M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     12.1.1.b Boys registered in AFHC M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     12.1.2.a Out of registered, Girls received clinical services M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     12.1.2.b Out of registered, Boys received clinical services M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     12.1.3.a Out of registered, Girls received counselling M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     12.1.3.b Out of registered, Boys received counselling M12 [Adolescent Health] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     13.1 Number of on-going DOTS patients registered M13 [Directly Observed Treatment, Short-course (DOTS)] 7 NA 5 2
+Madhya Pradesh East Nimar Punasa 2021-22 April     13.2 Number of DOTS cases completed successfully M13 [Directly Observed Treatment, Short-course (DOTS)] 7 NA 2 5
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.1.1 Outpatient - Diabetes M14 [Patient Services] 184 NA 164 20
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.1.2 Outpatient - Hypertension M14 [Patient Services] 207 NA 199 8
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.1.3 Outpatient - Stroke (Paralysis) M14 [Patient Services] 13 NA 13 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.1.4 Outpatient - Acute Heart Diseases M14 [Patient Services] 3 NA 1 2
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.1.5 Outpatient - Mental illness M14 [Patient Services] 1 NA 1 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.1.6 Outpatient - Epilepsy M14 [Patient Services] 2 NA 2 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.1.7 Outpatient - Ophthalmic Related M14 [Patient Services] 94 NA 74 20
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.1.8 Outpatient - Dental M14 [Patient Services] 66 NA 58 8
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.1.9 Outpatient - Oncology M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.2.1 Allopathic- Outpatient attendance M14 [Patient Services] 10318 NA 9818 500
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.2.2 Ayush - Outpatient attendance M14 [Patient Services] 1070 NA 730 340
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.3.1.a Inpatient (Male) - Children < 18 years M14 [Patient Services] 36 NA 36 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.3.1.b Inpatient (Male)- Adults M14 [Patient Services] 347 NA 347 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.3.2.a Inpatient (Female) - Children < 18 years M14 [Patient Services] 51 NA 51 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.3.2.b Inpatient (Female)- Adults M14 [Patient Services] 514 NA 492 22
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.3.3 Number of Left Against Medical Advice (LAMA) cases M14 [Patient Services] 8 NA 8 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.4.1 Inpatient - Malaria M14 [Patient Services] 2 NA 2 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.4.2 Inpatient - Dengue M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.4.3 Inpatient - Typhoid M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.4.4 Inpatient - Asthma, Chronic Obstructive Pulmonary Disease (COPD), Respiratory infections M14 [Patient Services] 21 NA 21 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.4.5 Inpatient - Tuberculosis M14 [Patient Services] 3 NA 3 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.4.6 Inpatient - Pyrexia of unknown origin (PUO) M14 [Patient Services] 35 NA 35 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.4.7 Inpatient - Diarrhea with dehydration M14 [Patient Services] 40 NA 40 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.4.8 Inpatient - Hepatitis M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.5 Patients registered at Emergency Department M14 [Patient Services] 57 NA 57 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.6.1 Emergency - Trauma ( accident, injury, poisoning etc) M14 [Patient Services] 20 NA 20 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.6.2 Emergency - Burn M14 [Patient Services] 2 NA 2 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.6.3 Emergency - Obstetrics complications M14 [Patient Services] 2 NA 2 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.6.4 Emergency - Snake Bite M14 [Patient Services] 2 NA 2 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.6.5 Emergency - Acute Caridiac Emergencies M14 [Patient Services] 5 NA 5 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.6.7 Emergency - CVA ( Cerebovascular Disease) M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.7 Number of deaths occurring at Emergency Department M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.8.1 Operation major (General and spinal anaesthesia) M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.8.2 Out of Operation major, Gynecology- Hysterectomy surgeries M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.8.4 Operation minor (No or local anaesthesia) M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.8.6 Number of blood units issued M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.8.7 Number of blood transfusions done M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.9.1 Inpatient Deaths - Male M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.9.2 Inpatient Deaths - Female M14 [Patient Services] 2 NA 2 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.10 In-Patient Head Count at midnight M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.11 Number of Admission in NBSU ( New Born Stabilisation Unit) M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.12.1 Special Newborn Care Unit (SNCU Admissions) - Inborn Male M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.12.2 Special Newborn Care Unit (SNCU Admissions) - Inborn Female M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.12.3 Outborn – Male M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.12.4 Outborn - Female M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.12.5 Number of newborns admitted in SNCU - referred by ASHA M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.13 Number of deaths occurring at SNCU M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.14.1 Number of children admitted in NRC M14 [Patient Services] 2 NA 2 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.14.2 Number of children discharged with target weight gain from the NRCs M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.15 Number of Rogi Kalyan Samiti (RKS) meetings held M14 [Patient Services] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     14.16 Number of Anganwadi centres/ UPHCs reported to have conducted Village Health & Nutrition Day (VHNDs)/ Urban Health & Nutrition Day (UHNDs)/ Outreach / Special Outreach M14 [Patient Services] 138 NA 138 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     15.1 Number of Lab Tests done M15 [Laboratory Testing] 1130 NA 890 240
+Madhya Pradesh East Nimar Punasa 2021-22 April     15.2.1 Number of Hb tests conducted M15 [Laboratory Testing] 1651 NA 1536 115
+Madhya Pradesh East Nimar Punasa 2021-22 April     15.2.2 Out of the total number of Hb tests done, Number having Hb < 7 mg M15 [Laboratory Testing] 16 NA 16 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     15.3.1.a Male HIV - Number Tested (by finger prick test) M15 [Laboratory Testing] 4 NA 4 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     15.3.1.b Male HIV - Number Positive M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     15.3.2.a Female Non ANC HIV - Number Tested (by finger prick test) M15 [Laboratory Testing] 27 NA 27 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     15.3.2.b Female Non ANC HIV - Number Positive M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     15.3.3.a Number of pregnant women screened for HIV (by finger prick test) M15 [Laboratory Testing] 242 NA 213 29
+Madhya Pradesh East Nimar Punasa 2021-22 April     15.3.3.b Out of the above, number screened positive M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     15.3.3.c Out of the above number screened positive, number confirmed with HIV infection at Integrated Counselling and Testing Centre (ICTC) M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     15.3.4.a Number of Male STI/RTI attendees tested for syphilis M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     15.3.4.b Number of Male STI/RTI attendeees found sero Positive for syphilis M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     15.3.4.c Number of Female(Non ANC)STI/RTI attendees tested for syphilis M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     15.3.4.d Number of Female(Non ANC)STI/RTI attendees found sero Positive for syphilis M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     15.4.1 Widal tests - Number Tested M15 [Laboratory Testing] 46 NA 46 NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     15.4.2 Widal tests - Number Positive M15 [Laboratory Testing] NA NA NA NA
+Madhya Pradesh East Nimar Punasa 2021-22 April     15.5.1 Radiology - X-ray M15 [Laboratory Testing] 31 NA NA 31
+Madhya Pradesh East Nimar Punasa 2021-22 April     15.5.2 Radiology - Ultrasonography (USG) M15 [Laboratory Testing] NA NA NA NA
